@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pTankgroesse\ pKmStand\ pTankinhalt
+comment0.target=Auto(double,\ int,\ double)
+comment0.text=\r\n\ Ein\ Objekt\ der\ Klasse\ wird\ erzeugt,\ wobei\ alle\ Attribute\ per\ Parameter\ initialisiert\ werden.\r\n\ @param\ pTankgroesse\ Gibt\ den\ Startwert\ des\ Attributs\ tankgroesse\ an.\r\n\ @param\ pKmStand\ Gibt\ den\ Startwert\ des\ Attributs\ kilometerstand\ an.\r\n\ @param\ pTankinhalt\ Gibt\ den\ Startwert\ des\ Attributs\ tankinhalt\ an.\r\n
+comment1.params=pStrecke
+comment1.target=void\ autobahnFahren(int)
+comment1.text=\r\n\ Das\ Auto\ f\u00E4hrt\ eine\ bestimmte\ Strecke\ auf\ der\ Autobahn\r\n\ Das\ Auto\ verbraucht\ 0,11\ Liter\ pro\ Kilometer\r\n\ @param\ pStrecke\ Die\ zu\ fahrende\ Strecke\r\n
+numComments=2

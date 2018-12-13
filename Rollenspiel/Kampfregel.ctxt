@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Kampfregel()
+comment0.text=\r\n\ Konstruktor\ fuer\ die\ Kampfregel.\r\n
+comment1.params=pHeld\ pMonster
+comment1.target=void\ kampf(Held,\ Monster)
+comment1.text=\r\n\ UNFERTIG\r\n\ Entscheidet\ ob\ der\ Held\ oder\ das\ Monster\ den\ Kampf\ gewinnt.\r\n\ @param\ pHeld\ Der\ kaempfende\ Held.\r\n\ @param\ pMonster\ Das\ kaempfende\ Monster.\r\n
+numComments=2

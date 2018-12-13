@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Palindrompruefer()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Palindrompruefer\r\n
+comment1.params=pPalindrom
+comment1.target=void\ palindromPruefen(java.lang.String)
+comment1.text=\r\n\ Gibt\ auf\ der\ Konsole\ aus,\ ob\ eine\ String\ ein\ Palindrom\ ist.\r\n\ \r\n\ @param\ pPalindrom\ Der\ Text\ der\ geprueft\ werden\ soll.\r\n
+comment2.params=pText
+comment2.target=boolean\ isPalindrom(java.lang.String)
+comment2.text=\r\n\ Gibt\ zurueck\ ob\ eine\ String\ ein\ Palindrom\ ist.\r\n\ Wenn\ die\ zu\ testende\ String\ Leerzeichen\ enthaelt,\ werden\ diese\ entfernt\ um\ auch\ Saetze\ die\ ein\ Palindrom\ bilden\ zu\ erkennen.\r\n\ \r\n\ @param\ pText\ Die\ zu\ testende\ String.\r\n\ \r\n\ @return\ True\ wenn\ der\ eingegebene\ Text\ ein\ Palindrom\ ist.\r\n
+comment3.params=pString
+comment3.target=java.lang.String\ entferneWhitespace(java.lang.String)
+comment3.text=\r\n\ Gibt\ eine\ String\ zurueck,\ bei\ der\ alle\ Leerzeichen\ entfernt\ wurden.\r\n\ \r\n\ @param\ pString\ Die\ String,\ bei\ der\ die\ Leerzeichen\ entfernt\ werden\ sollen.\r\n\ \r\n\ @return\ Die\ eingegebene\ String\ ohne\ Leerzeichen.\r\n
+numComments=4

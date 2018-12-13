@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LukasStammbaum
+comment0.text=\r\n\ Die\ Klasse\ beinhaltet\ meinen\ eigenen\ Stammbaum,\ bis\ hin\ zu\ meinen\ Urgro\u00DFaeeltern.\r\n\ \r\n\ @author\ Lukas\ Reining\r\n\ @version\ 1.0\ vom\ 21.03.2017\r\n
+comment1.params=
+comment1.target=LukasStammbaum()
+comment1.text=\r\n\ Konstruktor\ fuer\ Objekte\ der\ Klasse\ LukasStambaum\r\n
+comment2.params=
+comment2.target=BinaryTree\ createStammbaum()
+comment2.text=\r\n\ Erstell\ meinen\ Stammbaum\ und\ gibt\ diesen\ zurueck.\r\n\ \r\n\ @return\ Mein\ Stammbaum.\r\n
+comment3.params=
+comment3.target=void\ besuche()
+comment3.text=\r\n\ Ruft\ die\ Methode\ besuche\ mit\ dem\ klasseneigenene\ Stammbaum\ auf.\r\n
+comment4.params=pBaum
+comment4.target=void\ besuche(BinaryTree)
+comment4.text=\r\n\ Traversiert\ alle\ Knoten\ eines\ Baumes\ und\ gibt\ deren\ Inhalt\ auf\ der\ Konsole\ aus.\r\n\ \r\n\ @param\ pBaum\ Der\ zu\ traversierende\ Baum.\r\n
+numComments=5

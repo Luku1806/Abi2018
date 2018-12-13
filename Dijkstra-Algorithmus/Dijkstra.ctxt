@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Dijkstra
+comment0.text=\r\n\ Der\ DijkstraAlgorithmus\ \r\n\ \r\n\ @author\ Lukas\ Reining\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Dijkstra()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Dijkstra\r\n
+comment2.params=source
+comment2.target=void\ init(Vertex)
+comment3.params=startVertex
+comment3.target=void\ execute(java.lang.String)
+comment4.params=source
+comment4.target=void\ execute(Vertex)
+comment5.params=vertex
+comment5.target=void\ findMinDistances(DijkstraVertex)
+comment6.params=source\ target
+comment6.target=double\ getDistance(DijkstraVertex,\ DijkstraVertex)
+comment6.text=\r\n\ Sucht\ das\ Kantengewicht\ zwischen\ zwei\ Knoten,\ also\ die\ Distanz\ zwischen\ diesen.\r\n
+comment7.params=vertexes
+comment7.target=DijkstraVertex\ getMinimum(List)
+comment7.text=\r\n\ Findet\ den\ unbesuchten\ Knoten\ mit\ der\ kleinsten\ Entfernung\ zum\ Startknoten.\r\n
+comment8.params=
+comment8.target=void\ printList()
+numComments=9

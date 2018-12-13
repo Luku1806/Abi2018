@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ZahlenGenerator()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ ZahlenGenerator\r\n
+comment1.params=
+comment1.target=void\ zahlenausgabe()
+comment2.params=
+comment2.target=void\ erzeugeZahlen()
+numComments=3

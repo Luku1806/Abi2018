@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Morsecodierer()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Morsecodierer\r\n
+comment1.params=code
+comment1.target=java.lang.String\ morsecodeDecodieren(java.lang.String)
+comment1.text=\r\n\ Uebersetzt\ einen\ Reihe\ von\ Morsecodes\ in\ Normaltext.\r\n\ Beispielkodierung\ des\ Wortes\ "Handballspiel"\:\ "..../.-/-./-../-.../.-/.-../.-../.../.--./.././.-.."\ .\r\n\ Jeder\ Code\ besteht\ aus\ ein\ bis\ vier\ "."\ und/oder\ "-".\ \r\n\ Um\ das\ Ende\ der\ Kodierung\ der\ einzelnen\ Buchstaben\ zu\ markieren,\ dient\ "/"\ als\ Trennzeichen.\r\n\ \r\n\ @param\ code\ Der\ zu\ uebersetzende\ Morsecode.\r\n\ @return\ Die\ Uebersetzung\ des\ Morsecodes\ in\ Normaltext.\r\n
+comment2.params=pText
+comment2.target=java.lang.String\ textCodieren(java.lang.String)
+comment2.text=\r\n\ Codiert\ eine\ String\ mit\ Klartext\ zu\ Morsecode.\r\n\ \r\n\ @param\ ptext\ Der\ zu\ codierende\ Text.\r\n\ @return\ Der\ zu\ Morsecode\ codierte\ Text.\r\n
+comment3.params=pZeichen
+comment3.target=java.lang.String\ charCodieren(char)
+comment3.text=\r\n\ Codiert\ einen\ Character\ in\ den\ zugehoerigen\ Morsecode.\r\n\ \r\n\ @param\ pZeichen\ Das\ zu\ codierende\ Zeichen.\r\n\ @return\ Der\ eingegebene\ Character\ als\ Morsecode.\r\n
+comment4.params=pZeichen\ pBaum\ pCode
+comment4.target=java.lang.String\ charCodieren(char,\ BinaryTree,\ java.lang.String)
+comment4.text=\r\n\ Codiert\ einen\ Character\ in\ den\ zugehoerigen\ Morsecode.\r\n\ \r\n\ @param\ pZeichen\ Das\ zu\ codierende\ Zeichen.\r\n\ @param\ pBaum\ Der\ zu\ benutzende\ Morsebaum.\r\n\ @param\ pCode\ Hilfsparameter\!\ Leere\ String\ eingeben\!\r\n\ \r\n\ @return\ Der\ eingegebene\ Character\ als\ Morsecode.\r\n
+comment5.params=
+comment5.target=BinaryTree\ createMorsebaum()
+comment5.text=\r\n\ Erstellt\ einen\ Morsebaum,\ und\ gibt\ diesen\ zurueck.\r\n\ \r\n\ @return\ Der\ Morsebaum.\r\n
+numComments=6

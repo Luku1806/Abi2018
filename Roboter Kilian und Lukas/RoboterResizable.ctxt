@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y\ z
+comment0.target=RoboterResizable(int,\ int,\ int)
+comment1.params=g
+comment1.target=void\ zeigen(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ dreheLinks()
+comment2.text=\r\n\ \u00C4ndert\ die\ Richtung,\ sodass\ der\ Roboter\ sich\ bei\ jedem\ Aufruf\ die\ Ansicht\ nach\ links\ verschiebt.\r\n
+comment3.params=
+comment3.target=void\ geheVor()
+comment4.params=g
+comment4.target=void\ frontalAnsicht(java.awt.Graphics)
+comment4.text=\r\n\ Zeichnet\ den\ Roboter\ in\ der\ Frontalansicht.\r\n
+comment5.params=g
+comment5.target=void\ r\u00FCckAnsicht(java.awt.Graphics)
+comment5.text=\r\n\ Zeichnet\ den\ Roboter\ in\ der\ R\u00FCckansicht.\r\n
+comment6.params=g
+comment6.target=void\ linkeSeitansicht(java.awt.Graphics)
+comment6.text=\r\n\ Zeichnet\ den\ Roboter\ in\ der\ linken\ Seitansicht.\r\n
+comment7.params=g
+comment7.target=void\ rechteSeitansicht(java.awt.Graphics)
+comment7.text=\r\n\ Zeichnet\ den\ Roboter\ in\ der\ rechten\ Seitansicht.\r\n
+comment8.params=
+comment8.target=int\ getSchrittweite()
+comment8.text=\r\n\ Die\ sondierende\ Methode\ zur\ Schrittweite\r\n\ @return\ Die\ Schrittweite\r\n
+numComments=9

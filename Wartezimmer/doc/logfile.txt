@@ -1,0 +1,39 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_101\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.8
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\doc
+-classpath
+I:\Programme\BlueJ\BlueJ-304\lib\bluejcore.jar;I:\Programme\BlueJ\BlueJ-304\lib\junit.jar;F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer
+F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\Wartezimmer.java
+<---- end of javadoc command ---->
+Loading source file F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\Wartezimmer.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_101
+Building tree for all the packages and classes...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\doc\Wartezimmer.html...
+F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\Wartezimmer.java:25: warning: no @param for pName
+    public void patientEinfuegen(String pName,String pKrankenkasse){
+                ^
+F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\Wartezimmer.java:25: warning: no @param for pKrankenkasse
+    public void patientEinfuegen(String pName,String pKrankenkasse){
+                ^
+Generating F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\doc\package-frame.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\doc\package-summary.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\doc\allclasses-frame.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\doc\allclasses-noframe.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Wartezimmer\doc\index.html...
+2 warnings

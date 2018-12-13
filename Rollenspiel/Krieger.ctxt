@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pName\ pStaerke\ pMaxLebenspunkte\ pAusdauer
+comment0.target=Krieger(java.lang.String,\ int,\ int,\ int)
+comment0.text=\r\n\ Konstruktor\ des\ Kriegers\r\n\ @param\ pName\ Der\ Name\ des\ Kriegers.\r\n\ @param\ pStaerke\ Die\ Staerke\ des\ Kriegers.\r\n\ @param\ pMaxLebenspunkte\ Die\ Lebenspunkte\ zum\ Zeitpunkt\ der\ Erstellung\ des\ Kriegers.\r\n\ @param\ pAusdauer\ Ausdauer\ des\ Kriegers.\r\n
+comment1.params=
+comment1.target=int\ angriffswertBerechnen()
+comment1.text=\r\n\ Berechnet\ den\ durch\ die\ Ausdauer\ gesteigerten\ Angriffswert\ des\ Kriegers.\r\n\ @return\ Der\ neue\ Angriffswert.\r\n
+numComments=2

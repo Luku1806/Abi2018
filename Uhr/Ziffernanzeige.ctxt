@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=pMaxWert\ pWert
+comment0.target=Ziffernanzeige(int,\ int)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Ziffernanzeige\r\n\ @param\ pMaxWert\ Der\ maxmimale\ Wert\ bevor\ der\ Wert\ auf\ 0\ gesetzt\ wird\r\n\ @param\ pWert\ Der\ Wert\ bei\ dem\ gestartet\ werden\ soll\r\n
+comment1.params=pMaxWert
+comment1.target=Ziffernanzeige(int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Ziffernanzeige\r\n\ @param\ pMaxWert\ Der\ maxmimale\ Wert\ bevor\ der\ Wert\ auf\ 0\ gesetzt\ wird\r\n
+comment2.params=
+comment2.target=int\ getWert()
+comment2.text=\r\n\ Die\ Sondierende\ Methode\ f\u00FCr\ das\ Attribut\ wert.\r\n\ @return\ Gibt\ das\ Attribut\ wert\ zur\u00FCck\r\n
+comment3.params=pWert
+comment3.target=void\ setWert(int)
+comment3.text=\r\n\ Setzt\ den\ Wert\ der\ Anzeige\ auf\ einen\ gew\u00E4hlten\ Wert\ ,\ solange\ dieser\ den\ maxWert\ nicht\ \u00FCbersteigt\r\n\ @param\ Der\ gew\u00FCnschte\ Wert\ auf\ den\ der\ Wert\ gesetzt\ werden\ soll\r\n
+comment4.params=
+comment4.target=java.lang.String\ getAnzeigewert()
+comment4.text=\r\n\ Gibt\ dein\ Anzeigewert\ zweistellig\ aus.\r\n\ Falls\ der\ Wert\ unter\ 10\ liegt\ wird\ eine\ f\u00FChrende\ 0\ hinzugef\u00FCgt\r\n
+comment5.params=
+comment5.target=void\ erhoehen()
+comment5.text=\r\n\ Erhoeht\ den\ Wert\ um\ 1.\r\n\ Wenn\ der\ maxWert\ erreicht\ ist,\ wird\ der\ Wert\ auf\ 0\ gesetzt.\r\n
+numComments=6

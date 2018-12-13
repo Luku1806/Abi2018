@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=pName\ pGeld\ pRoller
+comment0.target=Besitzer(java.lang.String,\ double,\ Roller)
+comment0.text=\r\n\ Der\ Konstruktor\ erzeugt\ ein\ Objekt\ der\ Klasse,\ wobei\ alle\ Attribute\ per\ Parameter\u00FCbergabe\ initialisiert\ werden.\r\n\ @param\ pName\ Gibt\ den\ Startwert\ des\ Attributs\ name\ an.\r\n\ @param\ pGeld\ Gibt\ den\ Startwert\ des\ Attributs\ Geld\ an.\r\n\ @param\ pRoller\ Ein\ Objekt\ der\ Klasse\ Rover\ wird\ referenziert.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Die\ sondierende\ Methode\ f\u00FCr\ das\ Attribut\ name.\r\n\ @return\ Das\ Attribut\ name\ wird\ zur\u00FCckgegeben.\r\n
+comment2.params=
+comment2.target=double\ getGeld()
+comment2.text=\r\n\ Die\ sondierende\ Methode\ f\u00FCr\ das\ Attribut\ geld.\r\n\ @return\ Das\ Attribut\ geld\ wird\ zur\u00FCckgegeben.\r\n
+comment3.params=pMenge
+comment3.target=void\ tankeDeinenRoller(double)
+comment3.text=\r\n\ Der\ Tankinhalt\ des\ Objekts\ meinRoller\ wird\ erh\u00F6ht\ und\ das\ geld\ wird\ (Der\ Einfachheit\ halber)\ um\ pMenge\ reduziert.\r\n\ @param\ Der\ Tankinhalt\ wir\ um\ pMenge\r\n
+comment4.params=pStrecke
+comment4.target=void\ fahreDeinenRoller(int)
+comment4.text=\r\n\ Der\ Kilometerstand\ des\ Objekts\ meinRoller\ wird\ erh\u00F6ht.\r\n\ @param\ pStrecke\ Gibt\ die\ zu\ fahrende\ Strecke\ an.\r\n
+comment5.params=pSumme
+comment5.target=void\ erhalteTaschengeld(double)
+comment5.text=\r\n\ Das\ Geld\ des\ Besitzers\ wird\ erh\u00F6ht.\r\n\ @param\ pSumme\ Der\ Wert,\ um\ den\ geld\ erh\u00F6ht\ wird.\r\n
+numComments=6

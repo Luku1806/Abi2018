@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sortierer()
+comment0.text=\r\n\ Konstruktor\ fuer\ Objekte\ der\ Klasse\ Sortierer\r\n
+comment1.params=
+comment1.target=void\ selectionSortTest()
+comment1.text=\r\n\ Sortiert\ die\ klasseninterne\ Liste\ mit\ Hilfe\ des\ selectionSorts\ und\ gibt\ diese\ davor\ und\ danach\ aus.\r\n
+comment2.params=
+comment2.target=void\ quickSortTest()
+comment2.text=\r\n\ Sortiert\ die\ klasseninterne\ Liste\ mit\ Hilfe\ des\ quickSorts\ und\ gibt\ diese\ davor\ und\ danach\ aus.\r\n
+comment3.params=pListe
+comment3.target=int\ laenge(List)
+comment3.text=\r\n\ Gibt\ die\ Laenge\ einer\ Liste\ zurueck.\r\n\ \r\n\ @param\ pListe\ Die\ Liste,\ dessen\ Laenge\ zurueck\ gegeben\ werden\ soll.\r\n\ @return\ Die\ Laenge\ der\ Liste.\r\n
+comment4.params=pListe
+comment4.target=List\ quickSort(List)
+comment4.text=\r\n\ Fuehrt\ den\ quick\ Sort\ auf\ einer\ Liste\ aus.\r\n\ \r\n\ @param\ pListe\ Die\ zu\ sortierende\ Liste.\r\n\ @return\ Die\ sortierte\ Liste.\r\n
+comment5.params=pListe
+comment5.target=List\ selectionSort(List)
+comment5.text=\r\n\ Fuehrt\ den\ selection\ Sort\ auf\ einer\ Liste\ aus.\r\n\ \r\n\ @param\ pListe\ Die\ zu\ sortierende\ Liste.\r\n\ @return\ Die\ sortierte\ Liste.\r\n
+comment6.params=pListe\ pBezeichner
+comment6.target=void\ ausgeben(List,\ java.lang.String)
+comment6.text=\r\n\ Gibt\ eine\ Liste\ pListe\ auf\ der\ Konsole\ aus.\r\n\ \r\n\ @param\ pListe\ Die\ auszugebende\ Liste.\r\n\ @param\ pBezeichner\ Der\ Bezeichner\ der\ Liste.\r\n
+comment7.params=pListe
+comment7.target=void\ ausgeben(List)
+comment7.text=\r\n\ Gibt\ eine\ Liste\ pListe\ auf\ der\ Konsole\ aus.\r\n\ \r\n\ @param\ pListe\ Die\ auszugebende\ Liste.\r\n
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StupidSorter()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ StupidSorter\r\n
+comment1.params=anzahl
+comment1.target=void\ test(int)
+comment2.params=arr
+comment2.target=int[]\ stupidSort(int[])
+comment3.params=arr
+comment3.target=boolean\ isSorted(int[])
+comment4.params=arr
+comment4.target=void\ printIntArray(int[])
+numComments=5

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Uhrenanzeige()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Uhrenanzeige\r\n
+comment1.params=pMinute\ pStunde
+comment1.target=Uhrenanzeige(int,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Uhrenanzeige\r\n
+comment2.params=pStunden\ pMinuten
+comment2.target=void\ setUhrzeit(int,\ int)
+comment2.text=\r\n\ Setzt\ die\ Uhrzeit\ auf\ einen\ gew\u00E4hlten\ Wert\r\n\ @param\ pStunden\ Die\ gew\u00FCnschten\ Stunden\r\n\ @param\ pMinuten\ Die\ gew\u00FCnschten\ Minuten\r\n
+comment3.params=
+comment3.target=void\ anzeige()
+comment3.text=\r\nGibt\ den\ Anzeigenwert\ zweistellig\ aus\r\n
+comment4.params=
+comment4.target=void\ takt()
+comment4.text=\r\n\ Erh\u00F6ht\ einmal\ pro\ Minute\ den\ Wert\ der\ Minute\ ,\ falls\ die\ Minuten\ bei\ 60\ sind\ erh\u00F6ht\ er\ die\ Stunde\r\n
+comment5.params=
+comment5.target=void\ run()
+comment6.params=
+comment6.target=void\ starte()
+numComments=7

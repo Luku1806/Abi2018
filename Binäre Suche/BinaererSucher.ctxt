@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BinaererSucher()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ BinaererSucher\r\n
+comment1.params=i
+comment1.target=boolean\ testSucheRek(int)
+comment2.params=i\ a
+comment2.target=boolean\ binaereSuche_iterativ(int,\ int[])
+comment2.text=\r\n\ F\u00FChrt\ eine\ binaere\ Suche\ auf\ iterative\ Weise\ durch.\r\n\ \r\n\ @param\ pSuch\ Der\ zu\ suchende\ Wert.\r\n\ @param\ a\ Das\ zu\ durchsuchende\ Array.\r\n\ \r\n\ @return\ True\ wenn\ gefunden.\r\n
+comment3.params=a\ links\ rechts\ i
+comment3.target=boolean\ binaereSuche_rekursiv(int[],\ int,\ int,\ int)
+comment3.text=\r\n\ F\u00FChrt\ eine\ binaere\ Suche\ auf\ rekursive\ Weise\ durch.\r\n\ \r\n\ @param\ pSuch\ Der\ zu\ suchende\ Wert.\r\n\ @param\ a\ Das\ zu\ durchsuchende\ Array.\r\n\ \r\n\ @return\ True\ wenn\ gefunden.\r\n
+numComments=4

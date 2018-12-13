@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wartezimmer()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Wartezimmer\r\n
+comment1.params=pName\ pKrankenkasse
+comment1.target=void\ patientEinfuegen(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Fuegt\ einen\ Patienten\ zu\ dem\ Wartezimmer\ hinzu.\r\n\ @param\ pName\ Der\ Name\ des\ sich\ anstellenden\ Patienten.\r\n\ @param\ pKrankenkasse\ Der\ Name\ der\ Krankenkasse\ des\ Patienten.\r\n
+comment2.params=
+comment2.target=void\ patientAufrufen()
+comment2.text=\r\n\ Ruft\ den\ ersten\ Patienten\ in\ der\ Reihe\ auf\ und\ der\ Patient\ nennt\ seine\ Daten.\r\n
+comment3.params=
+comment3.target=void\ zeigeAnzahlWartender()
+comment3.text=\r\n\ Gibt\ die\ Anzahl\ wartenden\ Patieneten\ in\ der\ Konsole\ aus.\r\n
+numComments=4

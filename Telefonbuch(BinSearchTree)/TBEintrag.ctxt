@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name\ vorname\ telefonnummer
+comment0.target=TBEintrag(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ TBEintrag.\r\n\ \r\n\ @param\ name\ Der\ Nachname\ der\ Person\ des\ Telefonbucheintrags.\r\n\ @param\ vorname\ Der\ Vorname\ der\ Person\ des\ Telefonbucheintrags.\r\n\ @param\ telefonnummer\ Die\ zu\ dem\ Telefonbucheintrag\ gehoerige\ Telefonnummer.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getVorname()
+comment3.params=
+comment3.target=java.lang.String\ getTelefonnummer()
+comment4.params=tbe
+comment4.target=boolean\ isLess(TBEintrag)
+comment5.params=tbe
+comment5.target=boolean\ isEqual(TBEintrag)
+comment6.params=tbe
+comment6.target=boolean\ isGreater(TBEintrag)
+numComments=7

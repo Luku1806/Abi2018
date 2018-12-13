@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Huffman()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Huffman\r\n
+comment1.params=pText
+comment1.target=haeufigkeit(java.lang.String)
+comment1.text=\r\n\ Ermittelt\ die\ H\u00E4ufigkeit\ der\ einzelnen\ Zeichen\ in\ einer\ String\ und\ schreibt\ diese\ als\ Zeichen-Objekt\ in\ einen\ leeren\ Bin\u00E4rbaum,\r\n\ und\ gibt\ diese\ als\ Huffmanliste\ zurueck.\r\n\ \r\n\ @param\ pText\ Der\ zu\ benutzende\ Text.\r\n\ @return\ Die\ Huffmanliste\ die\ jedes\ Zeichen\ zusammen\ mit\ seiner\ Haeufigkeit\ als\ einzelne\ Baueme\ gespeichert\ hat.\r\n
+comment2.params=pZeichen\ pBaum\ pCode
+comment2.target=java.lang.String\ charCodieren(char,\ BinaryTree,\ java.lang.String)
+comment2.text=\r\n\ Codiert\ einen\ Character\ in\ den\ zugehoerigen\ Huffmancode.\r\n\ \r\n\ @param\ pZeichen\ Das\ zu\ codierende\ Zeichen.\r\n\ @param\ pBaum\ Der\ zu\ benutzende\ Huffmantree.\r\n\ @param\ pCode\ Hilfsparameter\!\ Leere\ String\ eingeben\!\r\n\ \r\n\ @return\ Der\ eingegebene\ Character\ als\ Huffmancode.\r\n
+comment3.params=pText
+comment3.target=java.lang.String\ textCodieren(java.lang.String)
+comment3.text=\r\n\ Codiert\ einen\ mindestens\ 2\ stelligen\ Text\ in\ Huffmancode\ und\ gibt\ diesen\ als\ String\ zurueck.\r\n\ \r\n\ @param\ pText\ Der\ zu\ codierende\ Text.\r\n\ @return\ Der\ codierte\ Text\ als\ String.\r\n
+comment4.params=
+comment4.target=void\ ausgabeHuffmanliste()
+comment5.params=
+comment5.target=void\ ausgabeHuffmantree()
+comment6.params=tree
+comment6.target=void\ besuche(BinaryTree)
+comment7.params=pText
+comment7.target=void\ test(java.lang.String)
+comment7.text=\r\n\ Codiert\ einen\ Text\ in\ Huffmancode\ und\ gibt\ diesen\ mitsamt\ aller\ Schritte\ auf\ der\ Konsole\ aus.\r\n\ \r\n\ @param\ pText\ Der\ zu\ codierende\ Text.\r\n
+numComments=8

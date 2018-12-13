@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Topf()
+comment0.text=\r\n\ Konstruktor\ fuer\ Objekte\ der\ Klasse\ Topf.\r\n
+comment1.params=
+comment1.target=int\ getInhalt()
+comment1.text=\r\n\ Gibt\ den\ Wert\ des\ Geldes\ im\ Topf\ an.\r\n\ \r\n\ @return\ Der\ Wert\ des\ Geldes\ im\ Topf.\r\n
+comment2.params=pWert
+comment2.target=void\ setInhalt(int)
+comment2.text=\r\n\ Setzt\ den\ Wert\ des\ Geldes\ im\ Topf.\r\n\ @param\ pWert\ Der\ Wert\ auf\ den\ der\ Topfinhalt\ geaendert\ werden\ soll.\r\n
+numComments=3

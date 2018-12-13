@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=groesse
+comment0.target=Scheibe(int)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Scheibe\r\n
+comment1.params=
+comment1.target=int\ getGroesse()
+comment1.text=\r\n\ Die\ Groesse\ der\ Scheibe.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

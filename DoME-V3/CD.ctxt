@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=derTitel\ derKuenstler\ stuecke\ laenge\ pGenre
+comment0.target=CD(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment0.text=\r\n\ Initialisierung\ einer\ CD.\r\n\ @param\ derTitel\ der\ Titel\ der\ CD.\r\n\ @param\ derKuenstler\ der\ Kuenstler\ dieser\ CD.\r\n\ @param\ stuecke\ die\ Anzahl\ der\ Stuecke\ auf\ der\ CD.\r\n\ @param\ laenge\ die\ Spielzeit\ der\ CD.\r\n\ @param\ pGenre\ Das\ Genre\ des\ Mediums.\r\n
+comment1.params=
+comment1.target=void\ ausgeben()
+comment1.text=\r\n\ Gib\ Details\ \u00FCber\ diese\ CD\ auf\ der\ Konsole\ aus.\r\n
+numComments=2

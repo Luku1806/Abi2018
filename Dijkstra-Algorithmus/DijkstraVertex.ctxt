@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DijkstraVertex
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ DijkstraVertex.\r\n\ \r\n\ @author\ Lukas\ Reining\r\n\ @version\ 1.0\ vom\ 20.02.2018\r\n
+comment1.params=iD
+comment1.target=DijkstraVertex(java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ DijkstraVertex\r\n
+comment2.params=vertex
+comment2.target=DijkstraVertex(Vertex)
+comment2.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ DijkstraVertex\r\n
+comment3.params=vertex\ distance
+comment3.target=DijkstraVertex(Vertex,\ double)
+comment3.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ DijkstraVertex\r\n
+comment4.params=
+comment4.target=double\ getDistance()
+comment5.params=distance
+comment5.target=void\ setDistance(double)
+comment6.params=
+comment6.target=Vertex\ getVorgaenger()
+comment7.params=vorgaenger
+comment7.target=void\ setVorgaenger(Vertex)
+numComments=8

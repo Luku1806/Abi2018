@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=scheibenzahl
+comment0.target=Hannoit\u00FCrme(int)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Hannoit\u00FCrme\r\n
+comment1.params=
+comment1.target=void\ loesen()
+comment1.text=\r\n\ Loest\ das\ Tuerme\ von\ Hannoi-Spiel.\r\n
+comment2.params=scheibenzahl\ a\ b\ c
+comment2.target=void\ bewege(int,\ Turm,\ Turm,\ Turm)
+comment2.text=\r\n\ Der\ Randoffsche\ Algorithmus\ zur\ Loesung\ des\ Tuerme\ von\ Hannoi-Problems.\ \r\n
+comment3.params=
+comment3.target=void\ print()
+comment3.text=\r\n\ Gibt\ alle\ Tuerme\ auf\ der\ Konsole\ aus.\r\n
+numComments=4

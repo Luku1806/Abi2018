@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=derTitel\ dieRegie\ laenge
+comment0.target=DVD(String,String,int)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ DVD\n@param\ derTitel\ Der\ Titel\ dieser\ DVD.\n@param\ derRegisseur\ Der\ Regisseur\ dieser\ DVD.\n@param\ laenge\ Die\ Spielzeit\ des\ Hauptfilms.\n\n
+comment1.params=kommentar
+comment1.target=void\ setzeKommentar(String)
+comment1.text=\nSetze\ einen\ Kommentar\ f\u00FCr\ diese\ DVD.\n@param\ kommentar\ der\ einzutragende\ Kommentar.\n\n
+comment2.target=String\ gibKommentar()
+comment2.text=\n@return\ den\ Kommentar\ dieser\ DVD.\n\n
+comment3.params=vorhanden
+comment3.target=void\ setzeVorhanden(boolean)
+comment3.text=\nSetze,\ ob\ wir\ diese\ DVD\ in\ unserer\ Sammlung\ haben.\n@param\ vorhanden\ true,\ wenn\ wir\ die\ DVD\ haben,\ false\ sonst.\n\n
+comment4.target=boolean\ gibVorhanden()
+comment4.text=\nLiefere\ die\ Information,\ ob\ dieses\ DVD\ Teil\ unserer\nSammlung\ ist.\n\n
+comment5.target=void\ ausgeben()
+comment5.text=\nGib\ die\ Details\ dieser\ DVD\ auf\ der\ Konsole\ aus.\n\n
+numComments=6

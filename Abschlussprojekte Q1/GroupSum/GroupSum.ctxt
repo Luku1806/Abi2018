@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=menge\ n\ sum
+comment0.target=boolean\ groupSum(int[],\ int,\ int)
+comment0.text=\r\n\ Gibt\ zurueck\ ob\ eine\ Menge\ an\ Zahlen,\ eine\ Teilmenge\ enthaelt,\ die\ in\ der\ Summe\ eine\ gegebene\ Zahl\ ergibt.\r\n\ \r\n\ @param\ menge\ Die\ zu\ ueberpruefende\ Menge\ an\ Zahlen.\r\n\ @param\ n\ Die\ Anzahl\ an\ Zahlen.\r\n\ @param\ sum\ Die\ gesuchte\ Menge.\r\n
+comment1.params=
+comment1.target=void\ test()
+numComments=2

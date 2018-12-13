@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pAnzahlWuerfelseiten
+comment0.target=Wuerfel(int)
+comment0.text=\r\n\ Konstruktor\ fuer\ den\ W\u00C3\u00BCrfel.\r\n\ @param\ pAnzahlWuerfelseiten\ Die\ Anzahl\ der\ Wuerfelseiten.\r\n
+comment1.params=
+comment1.target=int\ wuerfeln()
+comment1.text=\r\n\ Gibt\ einen\ zufaelligen\ Wert\ zwischen\ 1\ und\ der\ Anzahl\ von\ Wuerfelseiten\ aus.\r\n\ @return\ Der\ Zufallswert\:\r\n
+numComments=2

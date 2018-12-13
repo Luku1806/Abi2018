@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ChatServer
+comment0.text=\r\n\ The\ server\ that\ can\ be\ run\ both\ as\ a\ console\ application\ or\ a\ GUI\r\n
+comment1.params=port
+comment1.target=ChatServer(int)
+comment1.text=\r\n\ server\ constructor\ that\ receive\ the\ port\ to\ listen\ to\ for\ connection\ as\r\n\ parameter\ in\ console\r\n
+comment2.params=
+comment2.target=void\ start()
+comment3.params=msg
+comment3.target=void\ display(java.lang.String)
+comment3.text=\r\n\ Display\ an\ event\ (not\ a\ message)\ to\ the\ console\ or\ the\ GUI\r\n
+comment4.params=message
+comment4.target=void\ broadcast(java.lang.String)
+comment4.text=\r\n\ to\ broadcast\ a\ message\ to\ all\ Clients\r\n
+comment5.params=id
+comment5.target=void\ remove(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ To\ run\ as\ a\ console\ application\ just\ open\ a\ console\ window\ and\:\ >\ java\ Server\r\n\ >\ java\ Server\ portNumber\ If\ the\ port\ number\ is\ not\ specified\ 1500\ is\ used\r\n
+numComments=7

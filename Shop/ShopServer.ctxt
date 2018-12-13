@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ShopServer
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Bestellung.\r\n\ \r\n\ @author\ Lukas\ Reining\r\n\ @version\ 12.01.2018\r\n
+comment1.params=
+comment1.target=ShopServer()
+comment1.text=\r\n\ Default\ Konstruktor\ fuer\ einen\ Server\ auf\ Port\ 5000.\r\n
+comment2.params=port
+comment2.target=ShopServer(int)
+comment2.text=\r\n\ Konstruktor\ fuer\ beliebigen\ Port\r\n
+comment3.params=pClientIP\ pClientPort
+comment3.target=void\ processNewConnection(java.lang.String,\ int)
+comment4.params=pClientIP\ pClientPort\ pMessage
+comment4.target=void\ processMessage(java.lang.String,\ int,\ java.lang.String)
+comment5.params=pClientIP\ pClientPort
+comment5.target=void\ processClosedConnection(java.lang.String,\ int)
+comment6.params=
+comment6.target=void\ showBestellungen()
+comment6.text=\r\n\ Gibt\ alle\ Bestellungen\ mit\ ID\ und\ Status\ auf\ der\ Konsole\ aus.\r\n
+numComments=7

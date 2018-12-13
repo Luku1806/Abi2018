@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TShirt
+comment0.text=\r\n\ Ein\ T-Shirt\ fuer\ den\ T-Shirtshop.\r\n\ \r\n\ @author\ Lukas\ Reining\r\n\ @version\ 12.01.2018\r\n
+comment1.params=groesse\ farbe
+comment1.target=TShirt(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TShirt\r\n
+comment2.params=
+comment2.target=java.lang.String\ getGroesse()
+comment3.params=
+comment3.target=java.lang.String\ getFarbe()
+comment4.params=
+comment4.target=double\ getPreis()
+numComments=5

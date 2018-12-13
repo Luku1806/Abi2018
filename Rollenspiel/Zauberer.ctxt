@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pName\ pStaerke\ pMaxLebenspunkte\ pZauberkraft
+comment0.target=Zauberer(java.lang.String,\ int,\ int,\ int)
+comment0.text=\r\n\ Konstruktor\ des\ Zauberers.\r\n\ @param\ pName\ Der\ Name\ des\ Zauberers.\r\n\ @param\ pStaerke\ Die\ Staerke\ des\ Zauberers.\r\n\ @param\ pMaxLebenspunkte\ Die\ Lebenspunkte\ zum\ Zeitpunkt\ der\ Erstellung\ des\ Zauberers.\r\n\ @param\ pZauberkraft\ Zauberkraft\ des\ Zauberers.\r\n
+comment1.params=
+comment1.target=void\ heilen()
+comment1.text=\r\n\ Fuellt\ die\ eigenen\ Lebenspunkte\ um\ die\ Hoehe\ der\ Zauberkraft\ auf.\r\n
+comment2.params=
+comment2.target=int\ getZauberkraft()
+comment2.text=\r\n\ Die\ sondierende\ Methode\ f\u00C3\u00BCr\ die\ Zauberkraft.\r\n\ @return\ Die\ Zauberkraft.\r\n
+numComments=3

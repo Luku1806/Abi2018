@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Buero()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Buero\r\n
+comment1.params=pName
+comment1.target=void\ hintenAnstellen(java.lang.String)
+comment1.text=\r\n\ Eine\ Person\ stellt\ sich\ an\ der\ Warteschlange\ an.\r\n\ @param\ pPerson\ Die\ sich\ anstellende\ Person.\r\n
+comment2.params=
+comment2.target=void\ einlassen()
+comment2.text=\r\n\ Die\ erste\ Person\ in\ der\ Warteschlange\ wird\ in\ das\ Buero\ gebeten.\r\n
+comment3.params=
+comment3.target=void\ sprechstundeBeenden()
+comment3.text=\r\n\ Alle\ anstehenden\ Personen\ verlassen\ die\ Warteschlange.\r\n
+numComments=4

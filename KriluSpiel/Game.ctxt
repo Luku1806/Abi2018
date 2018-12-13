@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=title\ windowSize\ ticks
+comment0.target=Game(java.lang.String,\ int,\ int)
+comment0.text=\r\n\ The\ constructor\ for\ the\ Game\ class\r\n\ @param\ windowSize\ The\ size\ of\ the\ window.\r\n\ @param\ ticks\ The\ amount\ of\ updates\ and\ FPS\r\n\ @param\ title\ The\ amount\ of\ updates\ and\ FPS\r\n\ @param\ pListener\ The\ Keylistener\ for\ the\ Game\r\n
+comment1.params=
+comment1.target=void\ update()
+comment1.text=\r\n\ This\ method\ updates\ all\ objects\ in\ the\ game.\r\n
+comment2.params=g
+comment2.target=void\ render(java.awt.Graphics)
+comment2.text=\r\n\ Fill\ this\ with\ objects\ to\ render.\r\n
+comment3.params=
+comment3.target=void\ renderGameBuffered()
+comment4.params=
+comment4.target=void\ initWindow()
+comment4.text=\r\n\ Initialises\ the\ window\r\n
+comment5.params=
+comment5.target=void\ startGame()
+comment5.text=\r\n\ Starts\ the\ game.\r\n\ The\ objects\ get\ updated\ and\ rendered\r\n
+numComments=6

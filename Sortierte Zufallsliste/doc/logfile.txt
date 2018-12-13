@@ -1,0 +1,73 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_111\bin\javadoc.exe
+-sourcepath
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste
+-classpath
+I:\Programme\BlueJ\BlueJ-304\lib\bluejcore.jar;I:\Programme\BlueJ\BlueJ-304\lib\junit.jar;F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste
+-d
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc
+-source
+1.8
+-doctitle
+Sortierte Zufallsliste
+-windowtitle
+Sortierte Zufallsliste
+-link
+http://java.sun.com/javase/6/docs/api/
+-author
+-version
+-nodeprecated
+-package
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste/SortedRandomlist.java
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste/List.java
+<---- end of javadoc command ---->
+Loading source file F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\SortedRandomlist.java...
+Loading source file F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\List.java...
+Constructing Javadoc information...
+javadoc: warning - Error fetching URL: http://java.sun.com/javase/6/docs/api/
+Standard Doclet version 1.8.0_111
+Building tree for all the packages and classes...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\List.html...
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\List.java:191: error: self-closing element not allowed
+   * Objekt bleibt unveraendert. <br />
+                                 ^
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\List.java:193: error: self-closing element not allowed
+   * gibt weiterhin kein aktuelles Objekt (hasAccess() == false). <br />
+                                                                  ^
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\List.java:232: error: self-closing element not allowed
+   * Falls pContent gleich null ist, geschieht nichts.<br />
+                                                      ^
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\List.java:234: error: self-closing element not allowed
+   * Das aktuelle Objekt bleibt unveraendert. <br />
+                                              ^
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\List.java:260: error: self-closing element not allowed
+   * pList null oder eine leere Liste ist, geschieht nichts.<br />
+                                                            ^
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\List.java:266: error: unknown tag: ContentType
+   *            die am Ende anzuhaengende Liste vom Typ List<ContentType>
+                                                            ^
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\List.java:289: error: self-closing element not allowed
+   * == false), geschieht nichts.<br />
+                                 ^
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\List.java:292: error: self-closing element not allowed
+   * wird zum aktuellen Objekt. <br />
+                                ^
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\SortedRandomlist.html...
+F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\SortedRandomlist.java:72: warning: no @return
+    private int zufallszahl(int kleinster, int hoechster){
+                ^
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\package-frame.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\package-summary.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\package-tree.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\constant-values.html...
+Building index for all the packages and classes...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\overview-tree.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\index-all.html...
+Building index for all classes...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\allclasses-frame.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\allclasses-noframe.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\index.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Sortierte Zufallsliste\doc\help-doc.html...
+8 errors
+2 warnings

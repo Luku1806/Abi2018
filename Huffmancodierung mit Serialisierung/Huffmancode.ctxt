@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=pCode\ pCodeTable
+comment0.target=Huffmancode(java.lang.String,\ java.util.Hashtable)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Huffmancode\r\n
+comment1.params=
+comment1.target=java.lang.String\ getCode()
+comment1.text=\r\n\ @return\ Der\ zu\ Ascii\ codierte\ Huffmancode.\r\n
+comment2.params=
+comment2.target=java.util.Hashtable\ getCodeTable()
+comment2.text=\r\n\ @return\ Die\ zum\ decodieren\ benoetigte\ Codetabelle.\r\n
+comment3.params=
+comment3.target=BinaryTree\ getHuffmanTree()
+comment3.text=\r\n\ Erstellt\ aus\ der\ Codetabelle\ einen\ Huffmantree\ und\ gibt\ diesen\ zurueck.\r\n\ \r\n\ @return\ Der\ zum\ Code\ gehoerige\ Huffmantree.\r\n
+numComments=4

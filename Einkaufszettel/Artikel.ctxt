@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pArtikelName
+comment0.target=Artikel(java.lang.String)
+comment0.text=\r\n\ Konstruktor.\r\n\ Variablen\ werden\ initialisiert.\r\n\ \r\n\ @param\ pArtikelName\ Der\ Name\ des\ Artikels.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getArtikelName()
+comment1.text=\r\n\ Gibt\ den\ Artikelnamen\ als\ String\ zurueck.\r\n\ \r\n\ @return\ Der\ Artikelname.\r\n
+numComments=2

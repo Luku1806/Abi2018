@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=pAngriffswert\ pLebenspunkte
+comment0.target=Monster(int,\ int)
+comment0.text=\r\n\ Konstruktor\ f\u00C3\u00BCr\ das\ Monster.\r\n\ @param\ pAngriffswert\ Der\ Angriffswert\ des\ Monsters.\r\n\ @param\ pLebenspunkte\ Die\ Lebenspunkte\ zur\ Zeit\ der\ Erstellung\ des\ Monsters.\r\n
+comment1.params=
+comment1.target=int\ getLebenspunkte()
+comment1.text=\r\n\ Die\ sondierende\ Methode\ f\u00C3\u00BCr\ die\ Lebenspunkte\ des\ Spielers.\r\n\ @return\ Die\ Lebenspunkte\ des\ Spielers.\r\n
+comment2.params=pLebenspunkte
+comment2.target=void\ setLebenspunkte(int)
+comment2.text=\r\n\ Setzt\ den\ Wert\ fuer\ die\ Lebenspunkte.\r\n\ @param\ der\ Wert\ auf\ den\ die\ Lebenspunkte\ gesetzt\ werden\ sollen.\r\n
+comment3.params=
+comment3.target=int\ getAngriffswert()
+comment3.text=\r\n\ Die\ sondierende\ Methode\ f\u00C3\u00BCr\ den\ Angriffswert\ des\ Spielers.\r\n\ @return\ Der\ Angriffswert\ des\ Spielers.\r\n
+numComments=4

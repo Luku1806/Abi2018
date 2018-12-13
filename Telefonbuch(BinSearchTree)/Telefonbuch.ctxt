@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Telefonbuch()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Telefonbuch\r\n
+comment1.params=tbe
+comment1.target=void\ einfuegen(TBEintrag)
+comment1.text=\r\n\ Fuegt\ dem\ Telefonbuch\ einen\ Eintrag\ hinzu.\r\n\ \r\n\ @param\ tbe\ Der\ einzufuegende\ Telefonbucheintag.\r\n
+comment2.params=name\ vorname\ telefonnummer
+comment2.target=void\ einfuegen(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Fuegt\ dem\ Telefonbuch\ einen\ Eintrag\ hinzu.\r\n\ \r\n\ @param\ name\ Der\ zugehoerige\ Nachname\ des\ einzufuegenden\ Telefonbucheintag.\r\n\ @param\ vorname\ Der\ zugehoerige\ Vorname\ des\ einzufuegenden\ Telefonbucheintag.\r\n\ @param\ name\ Die\ zugehoerige\ Telefonnummer\ des\ einzufuegenden\ Telefonbucheintag.\r\n
+comment3.params=name\ vorname
+comment3.target=void\ suchen(java.lang.String,\ java.lang.String)
+comment4.params=name\ vorname
+comment4.target=TBEintrag\ getEintrag(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Gibt\ einen\ Eintrag\ aus\ dem\ Telefonbuch\ zurueck.\r\n\ \r\n\ @param\ name\ Der\ zugehoerige\ Nachname\ des\ einzufuegenden\ Telefonbucheintag.\r\n\ @param\ vorname\ Der\ zugehoerige\ Vorname\ des\ einzufuegenden\ Telefonbucheintag.\r\n\ \r\n\ @return\ Der\ gefundene\ Telefonbucheintrag.\ Wenn\ nicht\ gefunden\ dann\ null.\r\n
+comment5.params=name\ vorname
+comment5.target=void\ entferne(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Loescht\ einen\ Eintrag\ aus\ dem\ Telefonbuch.\r\n\ \r\n\ @param\ name\ Der\ zugehoerige\ Nachname\ des\ zu\ loeschenden\ Telefonbucheintag.\r\n\ @param\ vorname\ Der\ zugehoerige\ Vorname\ des\ zu\ loeschenden\ Telefonbucheintag.\r\n
+comment6.params=
+comment6.target=void\ ausgeben()
+comment6.text=\r\n\ Gibt\ das\ Telefonbuch\ auf\ der\ Konsole\ aus.\r\n
+comment7.params=pTree
+comment7.target=void\ ausgeben(BinarySearchTree)
+comment7.text=\r\n\ Gibt\ das\ Telefonbuch\ auf\ der\ Konsole\ aus.\r\n\ Diese\ wird\ aus\ dem\ Binaeren\ Suchbaum\ ausgelesen,\ mithilfe\ einer\ Inorder-Traversierung.\r\n
+comment8.params=
+comment8.target=void\ testFill()
+numComments=9

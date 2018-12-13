@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vokabeltrainer()
+comment0.text=\r\n\ Konstruktor\ fuer\ Objekte\ der\ Klasse\ Vokabeltrainer\r\n
+comment1.params=pDeutsch\ pEnglisch
+comment1.target=void\ addVokabel(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Fuegt\ eine\ Vokabel\ hinzu.\r\n\ \r\n\ @param\ pDeutsch\ Die\ deutsche\ Uebersetzung\ der\ Vokabel.\r\n\ @param\ penglisch\ Die\ englische\ Uebersetzung\ der\ Vokabel.\r\n
+comment2.params=
+comment2.target=Vokabel\ getCurrentVokabel()
+comment2.text=\r\n\ Gibt\ die\ momentan\ erste\ Vokabel\ zurueck.\r\n\ \r\n\ @return\ die\ momentan\ vorne\ stehende\ Vokabel.\r\n
+comment3.params=
+comment3.target=void\ naechsteVokabel()
+comment3.text=\r\n\ Setzt\ die\ aktuelle\ Vokabel\ auf\ die\ naechste\ in\ der\ Liste.\r\n\ Wenn\ es\ bereits\ die\ letzte\ ist,\ wird\ wieder\ die\ erste\ Vokabel\ in\ der\ Liste\ angezeigt.\r\n
+numComments=4

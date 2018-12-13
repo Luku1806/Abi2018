@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Client
+comment0.text=\r\n\ <p>Materialien\ zu\ den\ zentralen\r\n\ Abiturpruefungen\ im\ Fach\ Informatik\ ab\ 2012\ in\r\n\ Nordrhein-Westfalen.</p>\r\n\ <p>Klasse\ Client</p>\r\n\ Ein\ Client\ kann\ &uuml;ber\ das\ Netz\ die\ Verbindung\ zu\ einem\ Server\ herstellen.<br>\r\n\ Fehlermeldungen\ werden\ ausgegeben.<br>\r\n\ Die\ Eingaben\ werden\ nebenl&auml;ufig\ verarbeitet.\r\n\ <p>NW-Arbeitsgruppe\:\ Materialentwicklung\ zum\ Zentralabitur\r\n\ im\ Fach\ Informatik</p>\r\n\r\n\ @version\ 2010-10-24\r\n
+comment1.params=pIPAdresse\ pPortNr
+comment1.target=Client(java.lang.String,\ int)
+comment1.text=\r\n\ \ \ \ Der\ Client\ ist\ mit\ Ein-\ und\ Ausgabestreams\ initialisiert.<br>\r\n\ \ \ \ @param\ pIPAdresse\ IP-Adresse\ bzw.\ Domain\ des\ Servers\r\n\ \ \ \ @param\ pPortNr\ Portnummer\ des\ Sockets\r\n
+comment2.params=pMessage
+comment2.target=void\ send(java.lang.String)
+comment3.params=
+comment3.target=boolean\ istVerbunden()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=pMessage
+comment5.target=void\ processMessage(java.lang.String)
+comment5.text=\r\n\ \ \ \ \ Eine\ Nachricht\ vom\ Server\ wurde\ bearbeitet.<br>\r\n\ \ \ \ \ Diese\ abstrakte\ Methode\ muss\ in\ Unterklassen\ &uuml;berschrieben\ werden.\r\n\ \ \ \ \ @param\ pMessage\ die\ empfangene\ Nachricht,\ die\ bearbeitet\ werden\ soll\r\n
+comment6.params=
+comment6.target=void\ close()
+comment6.text=\r\n\ \ \ \ Die\ Verbindung\ wurde\ mit\ Ein-\ und\ Ausgabestreams\ geschlossen.\r\n
+numComments=7

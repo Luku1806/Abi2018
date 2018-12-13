@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wuerfelsimulation()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Wuerfelsimulation\r\n\ Beim\ Erzeugen\ eines\ W\u00FCrfelexperimentes\ wird\ ein\ erstes\ mal\ gew\u00FCrfelt.\r\n
+comment1.params=
+comment1.target=double\ durchschnitt()
+comment1.text=\r\n\ Der\ Durchschnitt\ der\ Augenzahlen\ aller\ W\u00FCrfe\ wird\ berechnet\r\n\ @return\ Der\ berechnete\ Durchschnitt\r\n
+comment2.params=
+comment2.target=int\ summe()
+comment2.text=\r\n\ Die\ Summe\ der\ Augen\ aller\ W\u00FCrfe\ wird\ berechnet\r\n\ @return\ Die\ berechnete\ Summe\r\n
+comment3.params=
+comment3.target=void\ ausgeben()
+comment3.text=\r\n\ Gibt\ f\u00FCr\ jeden\ Wurf\ die\ gew\u00FCrfelte\ Augenzahl\ auf\ der\ Konsole\ aus\r\n\ Danach\ gibt\ er\ noch\ die\ Summe\ und\ den\ Durchschnitt\ auf\ der\ Konsole\ aus\r\n
+comment4.params=
+comment4.target=void\ wuerfeln()
+comment4.text=\r\n\ Weist\ jedem\ Wurf\ einen\ zuf\u00E4lligen\ Wert\ zwischen\ 1\ und\ 6\ zu\ \r\n\ und\ simuliert\ so\ einen\ W\u00FCrfel\r\n
+numComments=5

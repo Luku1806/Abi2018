@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=pTankgroesse\ pKmStand\ pTankinhalt
+comment0.target=Roller(double,\ int,\ double)
+comment0.text=\r\n\ Ein\ Objekt\ der\ Klasse\ wird\ erzeugt,\ wobei\ alle\ Attribute\ per\ Parameter\ initialisiert\ werden.\r\n\ @param\ pTankgroesse\ Gibt\ den\ Startwert\ des\ Attributs\ tankgroesse\ an.\r\n\ @param\ pKmStand\ Gibt\ den\ Startwert\ des\ Attributs\ kilometerstand\ an.\r\n\ @param\ pTankinhalt\ Gibt\ den\ Startwert\ des\ Attributs\ tankinhalt\ an.\r\n
+comment1.params=
+comment1.target=double\ getKilometerstand()
+comment1.text=\r\n\ Die\ sondierende\ Methode\ f\u00FCr\ das\ Attribut\ kilometerstand.\r\n\ @return\ Das\ Attribut\ kilometerstand\ wird\ zur\u00FCckgegeben.\r\n
+comment2.params=pMenge
+comment2.target=void\ tanke(double)
+comment2.text=\r\n\ Das\ Attribut\ tankinhalt\ wird\ erh\u00F6ht,\ sofern\ die\ Menge\ in\ den\ Tank\ passt.\r\n\ @param\ pMenge\ Um\ diesen\ Wert\ wird\ der\ Tankinhalt\ erh\u00F6ht.\r\n
+comment3.params=
+comment3.target=double\ getTankinhalt()
+comment3.text=\r\n\ Die\ sondierende\ Methode\ f\u00FCr\ das\ Attribut\ tankinhalt.\r\n\ @return\ Das\ Attribut\ tankinhalt\ wird\ zur\u00FCckgegeben.\r\n
+comment4.params=pStrecke
+comment4.target=void\ fahre(int)
+comment4.text=\r\n\ Der\ Roller\ f\u00E4hrt\ eine\ bestimmte\ Strecke,\ sofern\ genug\ Tankinhalt\ vorhanden\ ist.\r\n\ Er\ verbraucht\ 0,03\ Liter\ pro\ Kilometer\r\n\ @param\ pStrecke\ Die\ zu\ fahrende\ Strecke\r\n
+comment5.params=
+comment5.target=double\ getTankgroesse()
+comment5.text=\r\n\ Die\ sondierende\ Methode\ f\u00FCr\ das\ Attribut\ tankgroesse.\r\n\ @return\ Das\ Attribut\ tankgroesse\ wird\ zur\u00FCckgegeben.\r\n
+comment6.params=pMenge
+comment6.target=boolean\ passtInTank(double)
+comment6.text=\r\n\ Es\ wird\ gepr\u00FCft,\ ob\ die\ gew\u00FCnschte\ Menge\ Sprit\ noch\ in\ den\ Tank\ passt.\r\n\ @param\ pMenge\ Gibt\ die\ gew\u00FCnschte\ zu\ tankende\ Menge\ an.\r\n\ @return\ Gibt\ an,\ ob\ die\ gew\u00FCnschte\ Menge\ getankt\ werden\ kann.\r\n
+numComments=7

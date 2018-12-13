@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Datenbank()
+comment0.text=\r\n\ Erzeuge\ eine\ leere\ Datenbank.\r\n
+comment1.params=dasMedium
+comment1.target=void\ erfasseMedium(Medium)
+comment1.text=\r\n\ Erfasse\ das\ gegebene\ Medium\ in\ der\ Datenbank.\r\n\ @param\ dasMedium\ Das\ einzutragende\ Medium.\r\n
+comment2.params=dieCD
+comment2.target=void\ erfasseCD(CD)
+comment2.text=\r\n\ Erfasse\ die\ gegebene\ CD\ in\ dieser\ Datenbank.\r\n\ @param\ dieCD\ Die\ einzutragende\ CD.\r\n
+comment3.params=dieDVD
+comment3.target=void\ erfasseDVD(DVD)
+comment3.text=\r\n\ Erfasse\ die\ gegebene\ DVD\ in\ dieser\ Datenbank.\r\n\ @param\ dieDVD\ Die\ einzutragende\ DVD.\r\n
+comment4.params=
+comment4.target=void\ auflisten()
+comment4.text=\r\n\ Gib\ eine\ Liste\ aller\ aktuell\ gespeicherten\ CDs\ und\r\n\ DVDs\ auf\ der\ Konsole\ aus.\r\n
+numComments=5

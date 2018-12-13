@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pruefziffer
+comment0.target=boolean\ pruefeGeldschein(java.lang.String)
+comment0.text=\r\n\ Gibt\ an\ ob\ die\ Pruefziffer\ eines\ Gelscheins\ korrekt\ ist.\r\n
+numComments=1

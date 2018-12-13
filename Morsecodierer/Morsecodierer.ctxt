@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Morsecodierer()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Morsecodierer\r\n
+comment1.params=code
+comment1.target=java.lang.String\ morsecodeIterativDecodieren(java.lang.String)
+comment1.text=\r\n\ Uebersetzt\ einen\ Reihe\ von\ Morsecodes\ in\ Normaltext.\r\n\ Beispielkodierung\ des\ Wortes\ "Handballspiel"\:\ "..../.-/-./-../-.../.-/.-../.-../.../.--./.././.-.."\ .\r\n\ Jeder\ Code\ besteht\ aus\ ein\ bis\ vier\ "."\ und/oder\ "-".\ \r\n\ Um\ das\ Ende\ der\ Kodierung\ der\ einzelnen\ Buchstaben\ zu\ markieren,\ dient\ "/"\ als\ Trennzeichen.\r\n\ \r\n\ @param\ code\ Der\ zu\ uebersetzende\ Morsecode.\r\n\ @return\ Die\ Uebersetzung\ des\ Morsecodes\ in\ Normaltext.\r\n
+comment2.params=
+comment2.target=BinaryTree\ createMorsebaum()
+comment2.text=\r\n\ Erstellt\ einen\ Morsebaum,\ und\ gibt\ diesen\ zurueck.\r\n\ \r\n\ @return\ Der\ Morsebaum.\r\n
+numComments=3

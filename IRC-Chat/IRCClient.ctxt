@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=IRCClient
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ IRCClient\ here.\r\n\r\n\ @author\ Lukas\ Reining\r\n\ @version\ 26.01.2018\r\n
+comment1.params=address
+comment1.target=IRCClient(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IRCClient\r\n
+comment2.params=pMessage
+comment2.target=void\ processMessage(java.lang.String)
+comment3.params=message
+comment3.target=void\ sendMessage(java.lang.String)
+comment4.params=message\ username
+comment4.target=void\ whisper(java.lang.String,\ java.lang.String)
+comment5.params=newName
+comment5.target=void\ changeName(java.lang.String)
+numComments=6

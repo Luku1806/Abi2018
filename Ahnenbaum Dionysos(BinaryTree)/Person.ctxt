@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=pName
+comment0.target=Person(java.lang.String)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Person\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+numComments=2

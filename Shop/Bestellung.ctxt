@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bestellung
+comment0.text=\r\n\ Die\ Bestellung\ enthaelt\ ein\ T-Shirt\ und\ den\ Bestaetigungsstatus.\r\n\ Sie\ kann\ mit\ der\ ID-Nummer\ zugeordnet\ werden.\r\n\ \r\n\ @author\ Lukas\ Reining\r\n\ @version\ 12.01.2018\r\n
+comment1.params=shirt\ idnr
+comment1.target=Bestellung(TShirt,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Bestellung\r\n
+comment2.params=
+comment2.target=void\ bestaetigen()
+comment2.text=\r\n\ Bestaetigt\ die\ Bestellung.\r\n
+comment3.params=
+comment3.target=boolean\ istBestaetigt()
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=
+comment5.target=TShirt\ getShirt()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RussischRoulette()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ RussischRoulette\r\n
+comment1.params=
+comment1.target=void\ schie\u00DFen()
+comment2.params=name
+comment2.target=void\ spielerHinzufuegen(java.lang.String)
+comment3.params=
+comment3.target=void\ addtestPlayers()
+numComments=4

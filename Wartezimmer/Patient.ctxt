@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pName\ pKrankenkasse
+comment0.target=Patient(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Patient\r\n
+comment1.params=
+comment1.target=void\ nennePatientendaten()
+comment1.text=\r\n\ Der\ Patient\ nennt\ seine\ persoenlichen\ Daten.\r\n
+numComments=2

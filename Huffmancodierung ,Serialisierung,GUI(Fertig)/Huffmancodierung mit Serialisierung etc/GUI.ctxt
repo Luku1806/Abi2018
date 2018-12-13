@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GUI()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ showMainMenu()
+comment3.params=
+comment3.target=void\ showDecodeMenu()
+comment4.params=
+comment4.target=void\ showEncodeMenu()
+numComments=5

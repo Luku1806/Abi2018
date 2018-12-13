@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wuerfel()
+comment0.text=\r\n\ Standartkonstruktor\ fuer\ Wuerfel-Objekte\ mit\ 6\ Seiten.\r\n
+comment1.params=pSeiten
+comment1.target=Wuerfel(int)
+comment1.text=\r\n\ Konstruktor\ fuer\ Wuerfel-Objekte.\r\n\ \r\n\ @param\ pSeiten\ Die\ Anzahl\ an\ Seiten\ die\ der\ Wuerfel\ besitzt.\r\n
+comment2.params=
+comment2.target=int\ wuerfeln()
+comment2.text=\r\n\ Simuliert\ einen\ Wuerfelwurf\ und\ gibt\ ein\ Ergebnis\ zwischen\ 1\ und\ der\ Anzahl\ an\ Wuerfelseiten\ zurueck.\r\n\ \r\n\ @return\ Das\ Wuerfelergebnis.\r\n
+numComments=3

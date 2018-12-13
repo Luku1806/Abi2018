@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Schachtel()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Schachtel.\r\n
+comment1.params=pAnzahl
+comment1.target=void\ setAnzahl(int)
+comment1.text=\r\n\ Nimmt\ Hoelzer\ auf.\r\n\ @param\ pAnzahl\ ist\ die\ Anzahl\ der\ aufzunehmenden\ Hoelzer.\r\n
+comment2.params=
+comment2.target=int\ getAnzahl()
+comment2.text=\r\n\ Die\ sondierende\ Methode\ fuer\ das\ Attribut\ anzahl.\r\n
+numComments=3

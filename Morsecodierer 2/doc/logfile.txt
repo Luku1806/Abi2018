@@ -1,0 +1,46 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_111\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.8
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\doc
+-classpath
+I:\Programme\BlueJ\BlueJ-304\lib\bluejcore.jar;I:\Programme\BlueJ\BlueJ-304\lib\junit.jar;F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2
+F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\Morsecodierer.java
+<---- end of javadoc command ---->
+Loading source file F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\Morsecodierer.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_111
+Building tree for all the packages and classes...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\doc\Morsecodierer.html...
+F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\Morsecodierer.java:66: error: @param name not found
+     * @param ptext Der zu codierende Text.
+              ^
+F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\Morsecodierer.java:69: warning: no @param for pText
+    public String textCodieren(String pText){
+                  ^
+F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\Morsecodierer.java:93: warning: no @param for pBaum
+    private String charCodieren(char pZeichen, BinaryTree<Character> pBaum, String pCode){
+                   ^
+F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\Morsecodierer.java:93: warning: no @param for pCode
+    private String charCodieren(char pZeichen, BinaryTree<Character> pBaum, String pCode){
+                   ^
+Generating F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\doc\package-frame.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\doc\package-summary.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\doc\allclasses-frame.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\doc\allclasses-noframe.html...
+Generating F:\Programmieren\Schule\BlueJ Projekte\Morsecodierer 2\doc\index.html...
+1 error
+3 warnings

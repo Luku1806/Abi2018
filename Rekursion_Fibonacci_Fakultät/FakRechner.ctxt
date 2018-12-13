@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FakRechner()
+comment0.text=\r\n\ Konstruktor\r\n
+comment1.params=n
+comment1.target=int\ fakultaet_iterativ(int)
+comment1.text=\r\n\ Berechnet\ die\ Fakultaet\ einer\ bestimmten\ Zahl\ 'n'\ mit\ Hilfe\ von\ Iteration.\r\n\ \r\n\ @param\ n\ Die\ Zahl,\ zu\ der\ die\ Fakultaet\ berechnet\ werden\ soll.\r\n\ @return\ Die\ Fakultaet\ der\ Zahl\ n.\r\n
+comment2.params=n
+comment2.target=int\ fakultaet_rekursiv(int)
+comment2.text=\r\n\ Berechnet\ die\ Fakultaet\ einer\ bestimmten\ Zahl\ 'n'\ mit\ Hilfe\ von\ Rekursion.\r\n\ \r\n\ @param\ n\ Die\ Zahl,\ zu\ der\ die\ Fakultaet\ berechnet\ werden\ soll.\r\n\ @return\ Die\ Fakultaet\ der\ Zahl\ n.\r\n
+comment3.params=start\ end
+comment3.target=void\ ausgabeFakultaeten(int,\ int)
+comment3.text=\r\n\ Gibt\ einen\ Ausschnitt\ aus\ der\ Reihe\ der\ Fakultaeten\ auf\ der\ Konsole\ aus.\r\n\ \r\n\ @param\ start\ Beginn\ des\ Ausschnittes\ der\ Fakultaeten.\r\n\ @param\ end\ \ Ende\ des\ Ausschnittes\ der\ Fakultaeten.\r\n
+numComments=4

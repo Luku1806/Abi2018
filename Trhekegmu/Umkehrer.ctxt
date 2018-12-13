@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Umkehrer()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Umkehrer\r\n
+comment1.params=pZahlenfolge
+comment1.target=void\ ausgabeZahlenfolge(int[])
+comment1.text=\r\n\ Gibt\ die\ im\ Parameter\ eingegebene\ Zahlenfolge\ in\ umgekehrter\ Reihenfolge\ auf\ der\ Konsole\ aus.\r\n\ @param\ pZahlenfolge\ Die\ Ausgangszahlenfolge,\ die\ umgekehrt\ ausgegeben\ wird.\r\n
+numComments=2

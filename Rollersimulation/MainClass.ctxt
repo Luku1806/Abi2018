@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pZuFahrendeStrecke
+comment0.target=void\ main(int)
+comment0.text=\r\n\ Die\ Hauptmethode\ ruft\ die\ Methode\ Rollersimulation\ auf.\r\n\ @param\ pZuFahrendeStrecke\ Die\ Strecke\ die\ der\ Roller\ zur\u00FCcklegen\ soll\r\n
+comment1.params=pStrecke
+comment1.target=void\ starteSimulation(int)
+comment1.text=\r\n\ Der\ Besitzer\ f\u00E4hrt\ mit\ dem\ Roller\ eine\ vorgegeben\ Strecke.\r\n\ Nachdem\ die\ vorgegeben\ Strecke\ gefahren\ wurde,\ wird\ der\ Tankinhalt\ angezeigt.\r\n\ @param\ pStrecke\ Die\ zu\ fahrende\ Strecke.\r\n
+numComments=2

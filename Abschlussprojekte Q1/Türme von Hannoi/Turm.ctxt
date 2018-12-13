@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=scheibenzahl
+comment0.target=Turm(int)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Turm\r\n\ \r\n\ @param\ scheibenzahl\ Die\ Anzahl\ an\ Scheiben\ die\ der\ Turm\ von\ beginn\ an\ besitzt.\r\n
+comment1.params=
+comment1.target=Turm()
+comment1.text=\r\n\ Default\ Konstruktor\ fuer\ einen\ Turm\ ohne\ Scheiben.\r\n
+comment2.params=
+comment2.target=Scheibe\ nehmeOberste()
+comment2.text=\r\n\ Gibt\ die\ oben\ liegende\ Scheibe\ zurueck\ und\ entfernt\ diese\ vom\ Turm.\r\n\ \r\n\ @return\ Die\ oben\ liegende\ Scheibe.\r\n
+comment3.params=scheibe
+comment3.target=void\ scheibeAuflegen(Scheibe)
+comment3.text=\r\n\ Legt\ eine\ Scheibe\ oben\ auf\ den\ Turm\ herauf.\r\n\ \r\n\ @param\ scheibe\ Die\ aufzulegende\ Scheibe.\r\n
+comment4.params=scheibenzahl
+comment4.target=void\ fuellen(int)
+comment4.text=\r\n\ Fuellt\ den\ Turm\ mit\ einer\ gegebenen\ Zahl\ an\ Scheiben.\r\n\ \r\n\ @param\ scheibenzahl\ Die\ Menge\ an\ Scheiben\ die\ hinzugefuegt\ werden\ sollen.\r\n
+comment5.params=
+comment5.target=void\ print()
+comment5.text=\r\n\ Gibt\ den\ Turm\ auf\ der\ Konsole\ aus.\r\n
+numComments=6

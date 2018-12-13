@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SuchAlgorithmen
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SuchAlgorithmen\ here.\r\n\r\n\ @author\ Lukas\ Reining\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SuchAlgorithmen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SuchAlgorithmen\r\n
+comment2.params=startStadt
+comment2.target=void\ tiefensuche(java.lang.String)
+comment3.params=v
+comment3.target=void\ tiefensuche(Vertex)
+comment4.params=startStadt
+comment4.target=void\ breitensuche(java.lang.String)
+comment5.params=v
+comment5.target=void\ breitensuche(Vertex)
+numComments=6

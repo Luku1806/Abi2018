@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Kartenspiel()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Kartenspiel.\r\n\ Kartenstapel\ wird\ erstellt\ und\ befuellt.\r\n
+comment1.params=
+comment1.target=void\ fuellen()
+comment1.text=\r\n\ Fuellt\ den\ Kartenstapel\ mit\ allen\ verfuegbaren\ Karten.\r\n
+comment2.params=
+comment2.target=void\ mischen()
+comment2.text=\r\n\ Mischt\ den\ Kartenstapel.\r\n
+comment3.params=pFarbe\ pBild
+comment3.target=boolean\ vorhanden(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Ueberprueft\ ob\ eine\ Karte\ mit\ einer\ bestimmten\ Farbe\ und\ einem\ bestimmten\ Bild\ vorhanden\ ist.\r\n\ \r\n\ @param\ pFarbe\ Die\ Farbe\ der\ gesuchten\ Karte.\r\n\ @param\ pBild\ Das\ Bild\ der\ gesuchten\ Karte.\ \r\n\ \r\n\ @return\ True\ wenn\ Karte\ gefunden.\r\n
+comment4.params=pFarbe
+comment4.target=void\ aussortieren(java.lang.String)
+comment4.text=\r\n\ Entfernt\ alle\ Karten\ mit\ eine\ bestimmten\ Farbe\r\n\ \r\n\ @param\ pFarbe\ Die\ Farbe\ der\ auszusortierenden\ Karte.\ \r\n
+comment5.params=
+comment5.target=boolean\ mehrRoteErsteHaelfte()
+comment5.text=\r\n\ Gibt\ an\ ob\ in\ der\ ersten\ Haelfte\ des\ Kartendecks\ mehr\ rote\ Karten\ vorhanden\ sind.\r\n\ \r\n\ @return\ Gibt\ true\ zurueck\ wenn\ mehr\ rote\ Karten\ in\ der\ \r\n
+comment6.params=
+comment6.target=void\ ausgeben()
+comment6.text=\r\n\ Gibt\ die\ Karten\ untereinander\ auf\ der\ Konsole\ aus.\r\n
+numComments=7

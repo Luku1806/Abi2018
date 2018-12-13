@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=derTitel\ derKuenstler\ stuecke\ laenge
+comment0.target=CD(String,String,int,int)
+comment0.text=\nInitialisierung\ einer\ CD.\n@param\ derTitel\ der\ Titel\ der\ CD.\n@param\ derKuenstler\ der\ Kuenstler\ dieser\ CD.\n@param\ stuecke\ die\ Anzahl\ der\ Stuecke\ auf\ der\ CD.\n@param\ laenge\ die\ Spielzeit\ der\ CD.\n\n
+comment1.params=kommentar
+comment1.target=void\ setzeKommentar(String)
+comment1.text=\nSetze\ einen\ Kommentar\ f\u00FCr\ diese\ CD.\n@param\ kommentar\ der\ einzutragende\ Kommentar.\n\n
+comment2.target=String\ gibKommentar()
+comment2.text=\n@return\ den\ Kommentar\ f\u00FCr\ diese\ CD.\n\n
+comment3.params=vorhanden
+comment3.target=void\ setzeVorhanden(boolean)
+comment3.text=\nSetze,\ ob\ wir\ diese\ CD\ in\ unserer\ Sammlung\ haben.\n@param\ vorhanden\ true,\ wenn\ wir\ die\ CD\ haben,\ false\ sonst.\n\n
+comment4.target=boolean\ gibVorhanden()
+comment4.text=\n@return\ true,\ wenn\ wir\ diese\ CD\ in\nunserer\ Sammlung\ haben.\n\n
+comment5.target=void\ ausgeben()
+comment5.text=\nGib\ Details\ \u00FCber\ diese\ CD\ auf\ der\ Konsole\ aus.\n\n
+numComments=6

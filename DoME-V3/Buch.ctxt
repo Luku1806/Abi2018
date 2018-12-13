@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=derTitel\ derAutor\ laenge\ pGenre
+comment0.target=Buch(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Buch\r\n\ @param\ derTitel\ Der\ Titel\ dieses\ Buches.\r\n\ @param\ derAutor\ Der\ Regisseur\ dieses\ Buches.\r\n\ @param\ laenge\ Die\ Seitenzahl\ des\ Buches.\r\n\ @param\ pGenre\ Das\ Genre\ des\ Buches.\r\n
+comment1.params=
+comment1.target=void\ ausgeben()
+comment1.text=\r\n\ Gib\ die\ Details\ des\ Buches\ auf\ der\ Konsole\ aus.\r\n
+numComments=2

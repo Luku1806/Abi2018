@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=derTitel\ dieRegie\ laenge\ pGenre
+comment0.target=DVD(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ DVD\r\n\ @param\ derTitel\ Der\ Titel\ dieser\ DVD.\r\n\ @param\ derRegisseur\ Der\ Regisseur\ dieser\ DVD.\r\n\ @param\ laenge\ Die\ Spielzeit\ des\ Hauptfilms.\r\n\ @param\ pGenre\ Das\ Genre\ des\ Mediums.\r\n
+comment1.params=
+comment1.target=void\ ausgeben()
+comment1.text=\r\n\ Gib\ die\ Details\ dieser\ DVD\ auf\ der\ Konsole\ aus.\r\n
+numComments=2

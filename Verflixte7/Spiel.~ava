@@ -1,0 +1,141 @@
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import javax.swing.event.*;
+
+/**
+ *
+ * Beschreibung
+ *
+ * @version 1.0 vom 14.06.2016
+ * @author 
+ */
+
+public class Spiel extends JApplet {
+    // Anfang Attribute
+    private JLabel LabelSpieler1 = new JLabel();
+    private JLabel LabelSpieler2 = new JLabel();
+    private JButton jButton1 = new JButton();
+    private JSpinner EinsatzWahl = new JSpinner();
+    private SpinnerNumberModel EinsatzWahlModel = new SpinnerNumberModel(0, 0, 10000, 1);
+    private JLabel InformationsAnzeige = new JLabel();
+    private JLabel jLabel1 = new JLabel();
+    private JLabel jLabel2 = new JLabel();
+    private JLabel jLabel3 = new JLabel();
+    private JLabel jLabel4 = new JLabel();
+    private JLabel jLabel5 = new JLabel();
+    private JLabel jLabel6 = new JLabel();
+    private JButton jButton2 = new JButton();
+    private ImageIcon jButton2Icon = new ImageIcon("src/diceicon.png");
+    private JButton jButton3 = new JButton();
+    private JLabel jLabel7 = new JLabel();
+    // Ende Attribute
+
+    public void init() {
+        Container cp = getContentPane();
+        cp.setLayout(null);
+    cp.setBounds(0, 0, 400, 450);
+        // Anfang Komponenten
+
+        LabelSpieler1.setBounds(32, 24, 131, 28);
+        LabelSpieler1.setText("Spieler 1");
+        LabelSpieler1.setFont(new Font("Dialog", Font.BOLD, 20));
+        cp.add(LabelSpieler1);
+        LabelSpieler2.setBounds(224, 24, 131, 28);
+        LabelSpieler2.setText("Spieler 2");
+        LabelSpieler2.setFont(new Font("Dialog", Font.BOLD, 20));
+        cp.add(LabelSpieler2);
+        jButton1.setBounds(200, 328, 81, 33);
+        jButton1.setText("Setzen");
+        jButton1.setMargin(new Insets(2, 2, 2, 2));
+        jButton1.addActionListener(new ActionListener() 
+            { 
+                public void actionPerformed(ActionEvent evt) { 
+                    jButton1_ActionPerformed(evt);
+                }
+            });
+        jButton1.setEnabled(true);
+        cp.add(jButton1);
+        EinsatzWahl.setBounds(96, 328, 81, 33);
+        EinsatzWahl.setValue(0);
+        EinsatzWahl.setModel(EinsatzWahlModel);
+        EinsatzWahl.setEnabled(true);
+        cp.add(EinsatzWahl);
+
+        InformationsAnzeige.setBounds(8, 376, 363, 25);
+        InformationsAnzeige.setText("Spieler 1 bitte setzen!");
+        InformationsAnzeige.setHorizontalTextPosition(SwingConstants.LEFT);
+        InformationsAnzeige.setHorizontalAlignment(SwingConstants.CENTER);
+        cp.add(InformationsAnzeige);
+        jLabel1.setBounds(40, 64, 123, 25);
+        jLabel1.setText("Spieler 1 Vermögen");
+        cp.add(jLabel1);
+        jLabel2.setBounds(40, 112, 123, 25);
+        jLabel2.setText("Spieler 1 Züge");
+        cp.add(jLabel2);
+        jLabel3.setBounds(40, 136, 123, 25);
+        jLabel3.setText("Spieler 1 Punkte");
+        cp.add(jLabel3);
+        jLabel4.setBounds(232, 64, 123, 25);
+        jLabel4.setText("Spieler 2 Vermögen");
+        cp.add(jLabel4);
+        jLabel5.setBounds(232, 112, 123, 25);
+        jLabel5.setText("Spieler 2 Züge");
+        cp.add(jLabel5);
+        jLabel6.setBounds(232, 136, 123, 25);
+        jLabel6.setText("Spieler 2 Punkte");
+        cp.add(jLabel6);
+        jButton2.setBounds(144, 208, 89, 81);
+        jButton2.setText("");
+        jButton2.setMargin(new Insets(2, 2, 2, 2));
+        jButton2.addActionListener(new ActionListener() 
+            { 
+                public void actionPerformed(ActionEvent evt) { 
+                    jButton2_ActionPerformed(evt);
+                }
+            });
+        jButton2.setIcon(jButton2Icon);
+        jButton2.setHorizontalTextPosition(SwingConstants.CENTER);
+        jButton2.setBackground(new Color(0xEEEEEE));
+        jButton2.setContentAreaFilled(true);
+        jButton2.setIconTextGap(0);
+
+        jButton2.setBorderPainted(false);
+        jButton2.setToolTipText("Würfeln");
+        jButton2.setCursor(new Cursor(Cursor.HAND_CURSOR));
+        cp.add(jButton2);
+        jButton3.setBounds(144, 296, 89, 25);
+        jButton3.setText("Zug beenden");
+        jButton3.setMargin(new Insets(2, 2, 2, 2));
+        jButton3.addActionListener(new ActionListener() 
+            { 
+                public void actionPerformed(ActionEvent evt) { 
+                    jButton3_ActionPerformed(evt);
+                }
+            });
+        jButton3.setToolTipText("Beendet den Zug des Spielers");
+        cp.add(jButton3);
+        jLabel7.setBounds(112, 176, 155, 25);
+        jLabel7.setText("Aktueller Jackpot");
+        jLabel7.setHorizontalAlignment(SwingConstants.CENTER);
+        cp.add(jLabel7);
+        // Ende Komponenten
+
+    } // end of init
+
+    // Anfang Methoden   
+    public void jButton1_ActionPerformed(ActionEvent evt) {
+        // TODO hier Quelltext einfügen
+    } // end of jButton1_ActionPerformed
+
+    public void jButton2_ActionPerformed(ActionEvent evt) {
+        // TODO hier Quelltext einfügen
+    } // end of jButton2_ActionPerformed
+
+    public void jButton3_ActionPerformed(ActionEvent evt) {
+        // TODO hier Quelltext einfügen
+    } // end of jButton3_ActionPerformed
+
+    // Ende Methoden
+
+} // end of class Spiel

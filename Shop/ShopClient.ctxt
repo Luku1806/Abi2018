@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ShopClient
+comment0.text=\r\n\ Client\ zum\ Bestellen\ beim\ T-Shirtshop.\r\n\ \r\n\ @author\ Lukas\ Reining\r\n\ @version\ 12.01.2018\r\n
+comment1.params=pServerIP\ pServerPort
+comment1.target=ShopClient(java.lang.String,\ int)
+comment1.text=\r\n\ Konstruktor\ fuer\ einen\ Client\ der\ sich\ mit\ einem\ Server\ mit\ belieber\ Adresse\ auf\ einem\ beliebeigen\ Port\ verbindet.\r\n
+comment2.params=
+comment2.target=ShopClient()
+comment2.text=\r\n\ Konstruktor\ fuer\ einen\ Client\ der\ sich\ mit\ einem\ Server\ auf\ der\ Loopback-Adresse\ auf\ Port\ 5000\ verbindet.\r\n
+comment3.params=pMessage
+comment3.target=void\ processMessage(java.lang.String)
+comment4.params=shirt
+comment4.target=void\ bestelleTShirt(TShirt)
+comment4.text=\r\n\ Bestellt\ ein\ bestimmtes\ T-Shirt\ beim\ Server\r\n\ \r\n\ @param\ shirt\ Das\ zu\ bestellende\ T-Shirt.\r\n
+comment5.params=pGroesse\ pFarbe
+comment5.target=void\ groesseFarbeWaehlen(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Waehlt\ auf\ dem\ Server\ ein\ T-Shirt\ von\ einer\ bestimmten\ Groesse\ und\ Farbe\ aus.\r\n\ \r\n\ @param\ pGroesse\ Die\ gewuenschte\ Groesse.\r\n\ @param\ pFarbe\ Die\ gewuenschte\ Farbe.\r\n
+comment6.params=pAntwort
+comment6.target=void\ bestaetigen(java.lang.String)
+comment6.text=\r\n\ Bestaetigt\ die\ Auswahl\ auf\ dem\ Server\ oder\ verwirft\ diese.\r\n\ \r\n\ @param\ pAntwort\ "Ja"\ zum\ bestaetigen.\ "Nein"\ zum\ verwerfen.\r\n
+comment7.params=
+comment7.target=void\ abmelden()
+comment7.text=\r\n\ Meldet\ den\ Client\ vom\ Server\ ab.\r\n
+comment8.params=
+comment8.target=void\ start()
+comment8.text=\r\n\ Unfertige\ Methode\ zur\ Eingabe\ und\ Besteatigung\ der\ Bestellung\ ueber\ die\ Konsole.\r\n\ Funktioniert\ nur\ bei\ Eingaben\ in\ richtiger\ Reihenfolge\ und\ mit\ gueltigen\ Werten.\r\n
+numComments=9

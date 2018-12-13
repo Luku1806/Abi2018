@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StaedteGraph
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Staedtegraph.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=StaedteGraph()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Dijkstra\r\n
+comment2.params=
+comment2.target=void\ create()
+comment3.params=
+comment3.target=Graph\ getStaedteGraph()
+comment3.text=\r\n\ Gibt\ den\ Staedtegraphen\ zurueck.\r\n\ \r\n\ @return\ Der\ StaedteGraph.\r\n
+numComments=4

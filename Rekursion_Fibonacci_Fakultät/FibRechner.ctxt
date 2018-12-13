@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FibRechner()
+comment0.text=\r\n\ Konstruktor\r\n
+comment1.params=n
+comment1.target=int\ fib_rekursiv(int)
+comment1.text=\r\n\ Berechnet\ eine\ beliebige\ Fibonaccizahl\ mit\ Hilfe\ von\ Rekursion.\ \r\n\ \r\n\ @param\ n\ Die\ zu\ berechnende\ Fibonaccizahl.\r\n\ @return\ Die\ errechnete\ Fibonaccizahl.\r\n
+comment2.params=n
+comment2.target=int\ fib_iterativ(int)
+comment2.text=\r\n\ Berechnet\ eine\ beliebige\ Fibonaccizahl\ mit\ Hilfe\ von\ Iteration.\ \r\n\ \r\n\ @param\ n\ Die\ zu\ berechnende\ Fibonaccizahl.\r\n\ @return\ Die\ errechnete\ Fibonaccizahl.\r\n
+comment3.params=start\ end
+comment3.target=void\ ausgabeFibonaccizahlen(int,\ int)
+comment3.text=\r\n\ Gibt\ einen\ Ausschnitt\ aus\ der\ Reihe\ der\ Fibonaccizahlen\ auf\ der\ Konsole\ aus.\r\n\ \r\n\ @param\ start\ Beginn\ des\ Ausschnittes\ der\ Fibonaccizahlen.\r\n\ @param\ end\ \ Ende\ des\ Ausschnittes\ der\ Fibonaccizahlen.\r\n
+numComments=4

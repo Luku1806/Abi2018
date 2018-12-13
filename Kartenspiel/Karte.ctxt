@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pFarbe\ pBild
+comment0.target=Karte(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Karte\r\n
+comment1.params=
+comment1.target=java.lang.String\ getFarbe()
+comment1.text=\r\n\ Die\ sondierende\ Methode\ fuer\ das\ Attribut\ farbe.\r\n\ \r\n\ @return\ Die\ Farbe\ der\ Karte\r\n
+comment2.params=
+comment2.target=java.lang.String\ getBild()
+comment2.text=\r\n\ Die\ sondierende\ Methode\ fuer\ das\ Attribut\ bild.\r\n\ \r\n\ @return\ Das\ Bild\ der\ Karte\r\n
+numComments=3

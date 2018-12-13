@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=pText
+comment0.target=java.lang.String\ verschluesseln(java.lang.String)
+comment0.text=\r\n\ Verschluesselt\ einen\ Text\ nach\ dem\ Prinzip\ der\ Cesar-Chiffre.\r\n\ \r\n\ @param\ pText\ Der\ zu\ verschluesselnde\ Text.\r\n\ @return\ Der\ verschluesselte\ Text.\r\n
+comment1.params=pText
+comment1.target=java.lang.String\ entschluesseln(java.lang.String)
+comment1.text=\r\n\ Entschluesselt\ einen\ nach\ dem\ Prinzip\ der\ Cesar-Chiffre\ verschluesselten\ Text.\r\n\ \r\n\ @param\ pText\ Der\ zu\ entschluesselnde\ Text.\r\n\ @return\ Der\ entschluesselte\ Text.\r\n
+comment2.params=pBuchstabe
+comment2.target=char\ verschluesseln(char)
+comment2.text=\r\n\ Verschluesselt\ einen\ Buchstaben\ nach\ dem\ Prinzip\ der\ Cesar-Chiffre.\r\n\ \r\n\ @param\ pBuchstabe\ Der\ zu\ verschluesselnde\ Buchstabe.\r\n\ @return\ Der\ verschluesselte\ Buchstabe.\r\n
+comment3.params=pBuchstabe
+comment3.target=char\ entschluesseln(char)
+comment3.text=\r\n\ Entschluesselt\ einennach\ dem\ Prinzip\ der\ Cesar-Chiffre\ verschluesselten\ Buchstaben.\r\n\ \r\n\ @param\ pBuchstabe\ Der\ zu\ entschluesselnde\ Buchstabe.\r\n\ @return\ Der\ entschluesselnde\ Buchstabe.\r\n
+numComments=4

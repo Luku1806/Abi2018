@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ChatMessage
+comment0.text=\r\n\ This\ class\ defines\ the\ different\ type\ of\ messages\ that\ will\ be\ exchanged\ between\ the\r\n\ Clients\ and\ the\ Server.\ \r\n\ \r\n
+comment1.params=type\ message
+comment1.target=ChatMessage(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getType()
+comment3.params=
+comment3.target=java.lang.String\ getMessage()
+numComments=4

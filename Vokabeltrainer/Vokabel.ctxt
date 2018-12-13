@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=pDeutsch\ pEnglisch
+comment0.target=Vokabel(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Konstruktor\ fuer\ Objekte\ der\ Klasse\ Vokabel\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDeutsch()
+comment1.text=\r\n\ Gibt\ den\ die\ deutsche\ Uebersetzung\ der\ Vokabel\ zurueck.\r\n\ \r\n\ @return\ Die\ deutsche\ Uebersetzung.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getEnglisch()
+comment2.text=\r\n\ Gibt\ den\ die\ englische\ Uebersetzung\ der\ Vokabel\ zurueck.\r\n\ \r\n\ @return\ Die\ englische\ Uebersetzung.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getZuUebersetzen()
+comment3.text=\r\n\ Gibt\ die\ dem\ aktuellen\ Modus\ entsprechende\ zu\ Uebersetzende\ Vokabel\ zurueck.\r\n\ \r\n\ @retun\ Die\ zu\ uebersetzende\ Vokabel.\r\n
+comment4.params=pUebersetzung
+comment4.target=boolean\ isRichtigUebersetzt(java.lang.String)
+comment4.text=\r\n\ Gibt\ zurueck\ ob\ die\ Vokabel\ dem\ aktuellen\ Modus\ entsprechend\ richtig\ uebersetzt\ wurde.\r\n\ \r\n\ @return\ True\ wenn\ richtig\ uebersetzt\ wurde.\r\n
+numComments=5

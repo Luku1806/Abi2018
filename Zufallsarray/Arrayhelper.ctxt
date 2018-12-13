@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arrayhelper()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Arrayhandler\r\n
+comment1.params=
+comment1.target=void\ demo()
+comment1.text=\r\n\ F\u00FChrt\ eine\ Demonstration\ aller\ Methoden\ durch\r\n
+comment2.params=pSuch\ array
+comment2.target=boolean\ binaereSuche(int,\ int[])
+comment2.text=\r\n\ F\u00FChrt\ eine\ bin\u00E4re\ Suche\ durch.\r\n\ @param\ pSuch\ Der\ Wert\ der\ gesucht\ werden\ soll\r\n
+comment3.params=sortieren
+comment3.target=int[]\ selectionSort(int[])
+comment3.text=\r\n\ Der\ Selection-Sort\ Algorithmus\ nach\ Vorlage\ des\ Pseudocodes\ aus\ dem\ Buch\r\n\ @param\ sortieren\ Das\ zu\ sortierende\ Array\r\n\ @return\ Das\ sortierte\ Array\r\n
+comment4.params=
+comment4.target=void\ erzeugeZahlen()
+comment4.text=\r\n\ Weist\ dem\ Array\ "Zahlen"\ einen\ zuf\u00E4lligen\ Wert\ zwischen\ 1\ und\ 500\ zu.\r\n
+comment5.params=array
+comment5.target=void\ zahlenausgabe(int[])
+comment5.text=\r\n\ Die\ Werte\ eines\ Arrays\ werden\ auf\ der\ Konsole\ ausgegeben.\r\n@param\ array\ Das\ auszugebende\ Array\r\n
+numComments=6

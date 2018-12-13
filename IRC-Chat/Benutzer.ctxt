@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Benutzer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Benutzer\ here.\r\n\r\n\ @author\ (Leon\ Schmidthuis,\ Jan\ Malte\ Gollan)\r\n\ @version\ (Version\ 1.0\ 31.01.2018)\r\n
+comment1.params=ipAdresse\ name\ color
+comment1.target=Benutzer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ die\ Klasse\ Benutzer\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Get\ Methode\ f\u00FCr\ die\ Klasse\ Name.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment3.text=\r\n\ Get\ Methode\ f\u00FCr\ die\ Klasse\ Color.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getIpAdresse()
+comment4.text=\r\n\ Get\ Methode\ f\u00FCr\ die\ Klasse\ IpAdresse.\r\n
+comment5.params=pName
+comment5.target=void\ setName(java.lang.String)
+comment5.text=\r\n\ Set\ Methode\ f\u00FCr\ die\ Klasse\ Name.\r\n
+comment6.params=pColor
+comment6.target=void\ setColour(java.lang.String)
+comment6.text=\r\n\ Set\ Methode\ f\u00FCr\ die\ Klasse\ Color.\r\n
+comment7.params=pIpAdresse
+comment7.target=void\ setIpAdresse(java.lang.String)
+comment7.text=\r\n\ Set\ Methode\ f\u00FCr\ die\ Klasse\ IpAdresse.\r\n
+numComments=8

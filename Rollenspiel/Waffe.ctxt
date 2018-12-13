@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pMaterial\ pMagie
+comment0.target=Waffe(java.lang.String,\ int)
+comment0.text=\r\n\ Konstruktor\ der\ Klasse\ Waffe.\r\n\ @param\ pMaterial\ Das\ Material,\ aus\ dem\ die\ Waffe\ besteht.\r\n\ @param\ pMagie\ Die\ Staerke\ der\ Magie,\ die\ die\ Waffe\ besitzt.\r\n
+comment1.params=
+comment1.target=int\ bonusBerechnen()
+comment1.text=\r\n\ UNFERTIG\r\n\ Berechnet\ den\ Bonus\ der\ Waffe.\r\n\ @return\ Der\ berechnete\ Waffenbonus.\r\n
+comment2.params=
+comment2.target=int\ getBonus()
+comment2.text=\r\n\ Die\ sondierende\ Methode\ fuer\ den\ Bonus.\r\n\ @return\ Der\ Bonus\ der\ Waffe.\r\n
+numComments=3

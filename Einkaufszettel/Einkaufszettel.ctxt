@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Einkaufszettel()
+comment0.text=\r\n\ Konstruktor\ fuer\ den\ Einkaufszettel\ mit\ der\ Zettelbezeichnung\ "Einkaufszettel".\r\n
+comment1.params=pZettelBezeichnung
+comment1.target=Einkaufszettel(java.lang.String)
+comment1.text=\r\n\ Konstruktor\ fuer\ den\ Einkaufszettel\ mit\ beliebeiger\ Zettelbezeichnung.\r\n\ \r\n\ @param\ pZettelBezeichnung\ Die\ beliebeige\ Zettelbezeichnung.\r\n
+comment2.params=pArtikelName
+comment2.target=void\ addArtikel(java.lang.String)
+comment2.text=\r\n\ Fuegt\ einen\ neuen\ Artikel\ mit\ einem\ beliebigen\ Namen\ hinzu.\r\n\ \r\n\ @param\ pArtikelName\ Der\ Artikelname\ des\ zu\ hinzufuegenden\ Artikel.\r\n
+comment3.params=pArtikel
+comment3.target=void\ addArtikel(Artikel)
+comment3.text=\r\n\ Fuegt\ einen\ Artikel\ zur\ Liste\ hinzu.\r\n\ \r\n\ @param\ pArtikel\ Der\ hinzuzufuegende\ Artikel.\r\n
+comment4.params=pArtikelName
+comment4.target=boolean\ enthaeltArtikel(java.lang.String)
+comment4.text=\r\n\ Prueft\ ob\ die\ Liste\ einen\ Artikel\ mit\ einem\ bestimmten\ Namen\ bereits\ enthaelt.\r\n\ \r\n\ @param\ pArtikelName\ Der\ Name\ des\ zu\ pruefenden\ Artikel.\r\n
+comment5.params=pArtikelName
+comment5.target=void\ removeArtikel(java.lang.String)
+comment5.text=\r\n\ Entfernt\ einen\ Artikel\ mit\ einem\ bestimmten\ Artikelnamen,\ fals\ dieser\ in\ der\ Liste\ vorhanden\ ist.\r\n\ \r\n\ @param\ pArtikelName\ Der\ Name\ des\ zu\ loeschenden\ Artikel.\r\n
+comment6.params=
+comment6.target=void\ listeAusgeben()
+comment6.text=\r\n\ Gibt\ die\ Einkaufsliste\ auf\ der\ Konsole\ aus.\r\n
+numComments=7

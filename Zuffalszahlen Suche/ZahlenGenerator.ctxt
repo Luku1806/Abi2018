@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ZahlenGenerator()
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ ZahlenGenerator\r\n
+comment1.params=
+comment1.target=void\ randomSearch()
+comment1.text=\r\n\ Das\ Array\ wird\ auf\ die\ existenz\ von\ 20\ Zufallswerten\ \u00FCberpr\u00FCft.\r\n\ F\u00FCr\ jede\ Zahl\ wird\ auf\ der\ Konsole\ ausgegeben\ ob\ sie\ im\ Array\ gefunden\ wurde.\r\n\ Zuletzt\ wird\ ausgegeben\ wie\ viele\ der\ 20\ zahlen\ gefunden\ wurden.\r\n
+comment2.params=array\ pSuch
+comment2.target=boolean\ lineareSuche(int[],\ int)
+comment2.text=\r\n\ Durchsucht\ das\ gegebene\ Array\ auf\ den\ gegebenen\ Wert.\r\n@param\ array\ Das\ zu\ durchsuchende\ Array\r\n@param\ pSuch\ Der\ Wert\ auf\ den\ das\ Array\ gepr\u00FCft\ werden\ soll\r\n@return\ Gibt\ an\ ob\ der\ Wert\ gefunden\ wurde(true\ \=\ gefunden)\r\n
+comment3.params=array
+comment3.target=void\ zahlenausgabe(int[])
+comment3.text=\r\n\ Die\ Werte\ eines\ Arrays\ werden\ auf\ der\ Konsole\ ausgegeben.\r\n@param\ array\ Das\ auszugebende\ Array\r\n
+comment4.params=
+comment4.target=void\ erzeugeZahlen()
+comment4.text=\r\n\ Weist\ dem\ Array\ "Zahlen"\ einen\ zuf\u00E4lligen\ Wert\ zwischen\ 1\ und\ 500\ zu.\r\n
+numComments=5

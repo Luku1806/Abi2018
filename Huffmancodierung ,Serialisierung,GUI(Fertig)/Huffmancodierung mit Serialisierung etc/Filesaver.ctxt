@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=huffmancode\ filename
+comment0.target=void\ saveHuffmanToFile(Huffmancode,\ java.lang.String)
+comment0.text=\r\n\ Speichert\ einen\ Huffmancode\ als\ ".huff"\ Datei\ auf\ dem\ lokalen\ Dateisystem.\r\n\ \r\n\ @param\ huffmancode\ Das\ Huffmancode-Objekt\ das\ gespeichert\ werden\ soll.\r\n\ @param\ filename\ Der\ Name\ und\ Pfad\ an\ dem\ die\ Datei\ gespeichert\ werden\ soll.\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Formatbeispiel.\:\ "D\:\\\\Bilder\\\\huffman"\ fuer\ eine\ Datei\ namens\ "huffman.huff".\r\n
+comment1.params=filename
+comment1.target=Huffmancode\ loadHuffmanFromFile(java.lang.String)
+comment1.text=\r\n\ Laedt\ eine\ ".huff"\ Datei\ vom\ lokalen\ Dateisystem.\r\n\ \r\n\ @param\ filename\ Der\ Name\ und\ Pfad\ von\ dem\ die\ Datei\ geladen\ werden\ soll.\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Formatbeispiel.\:\ "D\:\\\\Bilder\\\\huffman.huff"\ fuer\ eine\ Datei\ namens\ "huffman.huff".\r\n
+numComments=2

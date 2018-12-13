@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pSpieler1\ pSpieler2
+comment0.target=Schiedsrichter(Spieler,\ Spieler)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Schiedsrichter\r\n
+comment1.params=
+comment1.target=void\ auswerten()
+comment1.text=\r\n\ Vergleicht\ die\ Punkte\ zwischen\ Spieler\ 1\ und\ 2\ und\ gibt\ dem\ besseren\ den\ Topf.\r\n
+numComments=2

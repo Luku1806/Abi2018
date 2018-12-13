@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=pZeichen
+comment0.target=Zeichen(char)
+comment0.text=\r\n\ Erstellt\ ein\ Zeichen.\r\n\ \r\n\ @param\ pZeichen\ Das\ Zeichen.\r\n
+comment1.params=pZeichen\ pAnzahl
+comment1.target=Zeichen(char,\ int)
+comment1.text=\r\n\ Erstellt\ ein\ Zeichen\ mit\ voreingestellter\ Anzahl.\r\n\ \r\n\ @param\ pZeichen\ Das\ Zeichen.\r\n
+comment2.params=
+comment2.target=void\ erhoeheAnzahl()
+comment2.text=\r\n\ Erhoeht\ die\ Anzahl\ des\ Zeichens\ im\ Text\ um\ 1.\r\n
+comment3.params=
+comment3.target=char\ getZeichen()
+comment3.text=\r\n\ Gibt\ das\ Zeichen\ als\ char\ zurueck.\r\n\ \r\n\ @return\ Das\ Zeichen.\r\n
+comment4.params=
+comment4.target=int\ getAnzahl()
+comment4.text=\r\n\ Gibt\ die\ Anzahl\ des\ Zeichens\ im\ Text\ zurueck.\r\n\ \r\n\ @return\ Die\ Anzahl\ des\ Zeichens\ im\ Text.\r\n
+comment5.params=pZahl
+comment5.target=void\ setAnzahl(int)
+comment5.text=\r\n\ Setzt\ die\ Anzahl\ des\ Zeichens\ im\ Text\ auf\ einen\ beliebeigen\ Wert.\r\n\ \r\n\ @param\ pZahl\ Die\ zu\ setztende\ Anzahl\ des\ Zeichens\ im\ Text.\r\n
+numComments=6
